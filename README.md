@@ -28,7 +28,7 @@ Creates a list of available times based on the inverse of existing calendar even
 ### [Morning Update]
 Daily announcement for today's weather, events, time to leave, and latest news headlines.
 
-### [What's Nearby?]
+### [What's Nearby?](https://www.icloud.com/shortcuts/db8f9b6b59174ae7b3a2f6f5be722976)
 Delivers a list of nearby points of interest.
 
 ### [Social Media Downloader]
