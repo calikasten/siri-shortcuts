@@ -29,7 +29,7 @@ Creates a list of available times based on the inverse of existing calendar even
 Daily announcement for today's weather, events, time to leave, and latest news headlines.
 
 ### [What's Nearby?]
-Delivers a list of nearby landmarks and points of interests
+Delivers a list of nearby points of interest.
 
 ### [Social Media Downloader]
 Downloads content from social media platforms and saves locally.
