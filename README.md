@@ -3,14 +3,14 @@ Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 01/09/2023.
 
 ### [Backup to iCloud](https://www.icloud.com/shortcuts/748ad4ff10004aff80a55ed0d7868d7b)
 
-### [Share Wi-Fi](https://www.icloud.com/shortcuts/2b84202efc4941718824c3670a9203fc)
+### [Share Wi-Fi](https://www.icloud.com/shortcuts/246eaa9b2632462f9809359a68c02de9)
 
-### [Un-Paywall](https://www.icloud.com/shortcuts/2b84202efc4941718824c3670a9203fc)
+### [Un-Paywall](https://www.icloud.com/shortcuts/fdeb01479c1e4513ad6300f67706cd03)
 
-### [Fireplace](https://www.icloud.com/shortcuts/f471ffab462c4e3bbafc6b9d6ab9743d)
+### [Fireplace](https://www.icloud.com/shortcuts/7b610137ef6843b1917e1dc4f765234d)
 
-### [Taking Off](https://www.icloud.com/shortcuts/8e541a15a53040238327204a89f434f1)
+### [Taking Off](https://www.icloud.com/shortcuts/26baa9660ce84e1a8e7072fd77d750ea)
 
-### [Running Late](https://www.icloud.com/shortcuts/8814a8974ea24ec79728827e112599f0)
+### [Running Late](https://www.icloud.com/shortcuts/a97cd07dbd534c83a1ff6ccc03c9191a)
 
-### [Streaming Lookup](https://www.icloud.com/shortcuts/1da1cdcacb94421d9a072f83bcfcd209)
+### [Streaming Lookup](https://www.icloud.com/shortcuts/31de8d40f18d48188d704e936e3a84e3)
