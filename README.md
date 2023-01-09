@@ -25,8 +25,23 @@ Retrieves travel time between current location and destination of next calendar 
 ### [Share Availability]
 Creates a list of available times based on the inverse of existing calendar events for an entered date.
 
+### [Morning Update]
+Daily announcement for today's weather, events, time to leave, and latest news headlines.
+
+### [What's Nearby?]
+Delivers a list of nearby landmarks and points of interests
+
+### [Social Media Downloader]
+Downloads content from social media platforms and saves locally.
+
+### [Song Links]
+Utlizes song.link to get a link to sharing music across streaming platforms. Original author [u/gianflo6](https://www.reddit.com/r/shortcuts/comments/gaskty/update_songlink_the_only_music_link_converter/).
+
 ### [Streaming Lookup](https://www.icloud.com/shortcuts/31de8d40f18d48188d704e936e3a84e3)
 Utilizes justwatch.com to display where to stream content after entering desired movie or tv show.
+
+### [Watermark]
+Adds a watermark to photos. Original author [Nick SAM](https://nicksam.ca).
 
 ### [Water Eject](https://www.icloud.com/shortcuts/607b5418d18f403b91ef25afd3b91dfc)
 Uses a low frequency sound to eject any water from the iPhone's speakers. Original author [u/Josh6780](https://www.reddit.com/r/shortcuts/comments/9s6bng/eject_water_from_your_device_like_an_apple_watch/).
