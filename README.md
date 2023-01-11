@@ -5,8 +5,8 @@ Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 01/10/2023.
 [Backup to iCloud](https://www.icloud.com/shortcuts/3a89391c936547bb8923e67c14cfdba9) <br>
 Saves a copy of all current shortcuts to iCloud drive (utilizing .shortcut extension).
 
-[Share Wi-Fi](https://www.icloud.com/shortcuts/7d06701703dd478989a2f7a8b1d23633) <br>
-Converts Wi-Fi network name and password into a QR code.
+[Network Tools](https://www.icloud.com/shortcuts/4de9fb119f244b6094d6f54cd4bdffd8) <br>
+Converts Wi-Fi network name and password into a QR code, retrieves external IP address, and initiates a network speed test.
 
 [Un-Paywall](https://www.icloud.com/shortcuts/827c70a590294402b7d50e869f30c6b0) <br>
 Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
@@ -21,7 +21,7 @@ Uses a low frequency sound to eject any water from the iPhone's speakers. Origin
 [Share Availability] <br>
 Creates a list of available times based on the inverse of existing calendar events for an entered date.
 
-[Running Late](https://www.icloud.com/shortcuts/aca5aae421714da3a6b5b2b1e25c6597) <br>
+[Running Late]() <br>
 Retrieves travel time between current location and destination of next calendar event to send via text.
 
 [Time To Leave] <br>
