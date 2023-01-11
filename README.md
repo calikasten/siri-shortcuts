@@ -24,7 +24,7 @@ Creates a list of available times based on the inverse of existing calendar even
 [Running Late] <br>
 Retrieves travel time between current location and destination of next calendar event to send via text.
 
-[Time To Leave] <br>
+[Time To Leave](https://www.icloud.com/shortcuts/29f7816064a14fd591e0896ab22ee232) <br>
 Returns driving travel time and recommends what time to leave based on the first calendar event with a destination that is different from current location.
 
 ## Travel
