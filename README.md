@@ -1,5 +1,5 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 01/10/2023.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 01/11/2023.
 
 ## Utilities
 [Backup to iCloud](https://www.icloud.com/shortcuts/3a89391c936547bb8923e67c14cfdba9) <br>
