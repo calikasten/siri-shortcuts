@@ -6,7 +6,7 @@ Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 01/11/2023.
 Saves a copy of all current shortcuts to iCloud drive (utilizing .shortcut extension).
 
 [Network Tools](https://www.icloud.com/shortcuts/4de9fb119f244b6094d6f54cd4bdffd8) <br>
-Converts Wi-Fi network name and password into a QR code, retrieves external IP address, and initiates a network speed test.
+Converts Wi-Fi network name and password into a QR code, retrieves external IP address, and initiates a network speed test utilizing fast.com.
 
 [Un-Paywall](https://www.icloud.com/shortcuts/827c70a590294402b7d50e869f30c6b0) <br>
 Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
