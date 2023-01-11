@@ -21,7 +21,7 @@ Uses a low frequency sound to eject any water from the iPhone's speakers. Origin
 [Share Availability] <br>
 Creates a list of available times based on the inverse of existing calendar events for an entered date.
 
-[Running Late]() <br>
+[Running Late] <br>
 Retrieves travel time between current location and destination of next calendar event to send via text.
 
 [Time To Leave] <br>
