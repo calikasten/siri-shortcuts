@@ -34,13 +34,6 @@ Utilizes flightaware.com to send flight tracking information via text after ente
 [What's Nearby?](https://www.icloud.com/shortcuts/c2351f0d3c604743a192df0fc67bca98) <br>
 Delivers a list of nearby points of interest.
 
-### Personal/Home Automations
-[Fireplace](https://www.icloud.com/shortcuts/2481873047e74f92bf95c57a917e4598) <br>
-Custom home automation to Airplay fireplace YouTube video on Apple TV.
-
-[Morning Update] <br>
-Daily announcement for today's weather, events, time to leave, and latest news headlines.
-
 ## Media
 [Song Links] <br>
 Utlizes song.link to get a link to sharing music across streaming platforms. Original author [u/gianflo6](https://www.reddit.com/r/shortcuts/comments/gaskty/update_songlink_the_only_music_link_converter/).
@@ -50,3 +43,10 @@ Utilizes justwatch.com to display where to stream content after entering desired
 
 [Social Media Downloader] <br>
 Downloads content from social media platforms and saves locally.
+
+### Personal/Home Automations
+[Fireplace](https://www.icloud.com/shortcuts/2481873047e74f92bf95c57a917e4598) <br>
+Custom home automation to Airplay fireplace YouTube video on Apple TV.
+
+[Morning Update] <br>
+Daily announcement for today's weather, events, time to leave, and latest news headlines.
