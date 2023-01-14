@@ -5,7 +5,7 @@ Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 01/11/2023.
 [Backup to iCloud](https://www.icloud.com/shortcuts/2a83df0377cf47f08c264f1c5c0fe72c) <br>
 Saves a copy of all current shortcuts to iCloud drive (utilizing .shortcut extension).
 
-[Network Tools](https://www.icloud.com/shortcuts/9e02e3d4943d4b5caf579e265078b4a5) <br>
+[Network Tools](https://www.icloud.com/shortcuts/00196fe017994234bda7aa6541eb1dd8) <br>
 Converts Wi-Fi network name and password into a QR code, retrieves external IP address, displays physical IP location, and initiates a network speed test utilizing fast.com.
 
 [Un-Paywall](https://www.icloud.com/shortcuts/827c70a590294402b7d50e869f30c6b0) <br>
