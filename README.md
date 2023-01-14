@@ -47,7 +47,7 @@ Utlizes song.link to get a link to sharing music across streaming platforms. Ori
 [Streaming Lookup](https://www.icloud.com/shortcuts/b980ec5585944e66ac4e31a22eedaac2) <br>
 Utilizes justwatch.com to display where to stream content after entering desired movie or tv show.
 
-[ Mocktail] <br>
+[ Mockups] <br>
 Creates design mockups for Apple products. Original author [Jordan Merrick](https://jordanmerrick.com/2019/03/18/mocktail/comment-page-1/).
 
 ### Personal/Home Automations
