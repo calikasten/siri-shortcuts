@@ -14,9 +14,6 @@ Bypasses internet content paywalls by taking URL contents and converting to base
 [View Source Code](https://www.icloud.com/shortcuts/d4094f07cc70495c9e5c4a1ddcce6832) <br>
 Displays a preview of the HTML source code of a web page.
 
-[Watermark] <br>
-Adds a watermark to photos. Original author [Nick SAM](https://nicksam.ca).
-
 [Eject Water](https://www.icloud.com/shortcuts/81cf12d2d2e946b0b9ac039980a1edfa) <br>
 Uses a low frequency sound to eject any water from the iPhone's speakers. Original author [u/Josh6780](https://www.reddit.com/r/shortcuts/comments/9s6bng/eject_water_from_your_device_like_an_apple_watch/).
 
