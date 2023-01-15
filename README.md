@@ -24,14 +24,14 @@ Uses a low frequency sound to eject any water from the iPhone's speakers. Origin
 [Share Availability] <br>
 Creates a list of available times based on the inverse of existing calendar events for an entered date.
 
-[Time To Leave] <br>
-Returns driving travel time and recommends what time to leave based on the first calendar event with a destination that is different from current location.
+[Time To Leave](https://www.icloud.com/shortcuts/194a1802e63c426586444ca93dfd8325) <br>
+Calculates what time to leave for the next event at a different location (based on travel time by car).
 
 [Running Late](https://www.icloud.com/shortcuts/d6978dcb118f48e190b113121ec14771) <br>
 Retrieves travel time between current location and destination of next calendar event to send via text.
 
 ## Travel
-[Taking Off] <br>
+[Flight Departure] <br>
 Utilizes flightaware.com to send flight tracking information via text after entering airline and flight number.
 
 [What's Nearby?](https://www.icloud.com/shortcuts/430dbf19dbc34c71afcd54f08d77491d) <br>
@@ -46,9 +46,6 @@ Utlizes song.link to get a link to sharing music across streaming platforms. Ori
 
 [Streaming Lookup](https://www.icloud.com/shortcuts/b980ec5585944e66ac4e31a22eedaac2) <br>
 Utilizes justwatch.com to display where to stream content after entering desired movie or tv show.
-
-[ Mockups] <br>
-Creates design mockups for Apple products. Original author [Jordan Merrick](https://jordanmerrick.com/2019/03/18/mocktail/comment-page-1/).
 
 ### Personal/Home Automations
 [Fireplace](https://www.icloud.com/shortcuts/d36cb58c045f4d8e9820b15ab814f097) <br>
