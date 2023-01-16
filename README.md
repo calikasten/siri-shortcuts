@@ -21,7 +21,7 @@ Uses a low frequency sound to eject any water from the iPhone's speakers. Origin
 [Share Availability] <br>
 Creates a list of available times based on the inverse of existing calendar events for an entered date.
 
-[Time To Leave](https://www.icloud.com/shortcuts/194a1802e63c426586444ca93dfd8325) <br>
+[Time To Leave](https://www.icloud.com/shortcuts/f2a716b2c276477e94ac8b933c1a19b9) <br>
 Calculates what time to leave for the next event at a different location (based on travel time by car).
 
 [Running Late](https://www.icloud.com/shortcuts/d6978dcb118f48e190b113121ec14771) <br>
