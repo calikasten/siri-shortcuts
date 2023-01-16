@@ -1,5 +1,5 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 01/14/2023.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 01/15/2023.
 
 ## Utilities
 [Backup to iCloud](https://www.icloud.com/shortcuts/569068864102446ebe48d742d82932cc) <br>
@@ -48,5 +48,5 @@ Utilizes justwatch.com to display where to stream content after entering desired
 [Fireplace](https://www.icloud.com/shortcuts/d36cb58c045f4d8e9820b15ab814f097) <br>
 Custom home automation to Airplay fireplace YouTube video on Apple TV.
 
-[Morning Update] <br>
-Daily announcement for today's weather, events, time to leave, and latest news headlines.
+[Morning Briefing](https://www.icloud.com/shortcuts/734e62afa0e044f9b6b1491c86f12c51) <br>
+Daily announcement for today's weather, events, and time to leave.
