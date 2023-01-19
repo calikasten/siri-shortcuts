@@ -1,5 +1,5 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 01/15/2023.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 01/18/2023.
 
 ## Utilities
 [Backup to iCloud](https://www.icloud.com/shortcuts/569068864102446ebe48d742d82932cc) <br>
@@ -17,17 +17,13 @@ Displays a preview of the HTML source code of a web page.
 [Eject Water](https://www.icloud.com/shortcuts/81cf12d2d2e946b0b9ac039980a1edfa) <br>
 Uses a low frequency sound to eject any water from the iPhone's speakers. Original author [u/Josh6780](https://www.reddit.com/r/shortcuts/comments/9s6bng/eject_water_from_your_device_like_an_apple_watch/).
 
-## Scheduling
-[Share Availability] <br>
-Creates a list of available times based on the inverse of existing calendar events for an entered date.
-
+## Travel
 [Time To Leave](https://www.icloud.com/shortcuts/f2a716b2c276477e94ac8b933c1a19b9) <br>
 Calculates what time to leave for the next event at a different location (based on travel time by car).
 
 [Running Late](https://www.icloud.com/shortcuts/d6978dcb118f48e190b113121ec14771) <br>
 Retrieves travel time between current location and destination of next calendar event to send via text.
 
-## Travel
 [Flight Departure] <br>
 Utilizes flightaware.com to send flight tracking information via text after entering airline and flight number.
 
