@@ -1,5 +1,5 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 01/18/2023.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 01/19/2023.
 
 ## Utilities
 [Backup to iCloud](https://www.icloud.com/shortcuts/569068864102446ebe48d742d82932cc) <br>
@@ -37,12 +37,12 @@ Downloads content from social media platforms and saves locally.
 [Song Links] <br>
 Utlizes song.link to get a link to sharing music across streaming platforms. Original author [u/gianflo6](https://www.reddit.com/r/shortcuts/comments/gaskty/update_songlink_the_only_music_link_converter/).
 
-[Streaming Lookup](https://www.icloud.com/shortcuts/b980ec5585944e66ac4e31a22eedaac2) <br>
+[Streaming Lookup](https://www.icloud.com/shortcuts/c541857d503648719762870e1c8c3ca1) <br>
 Utilizes justwatch.com to display where to stream content after entering desired movie or tv show.
 
 ### Personal/Home Automations
 [Fireplace](https://www.icloud.com/shortcuts/d36cb58c045f4d8e9820b15ab814f097) <br>
 Custom home automation to Airplay fireplace YouTube video on Apple TV.
 
-[Morning Briefing](https://www.icloud.com/shortcuts/734e62afa0e044f9b6b1491c86f12c51) <br>
-Daily announcement for today's weather, events, and time to leave.
+[Morning Briefing](https://www.icloud.com/shortcuts/0c20a818b3104ed0856b0853c3669433) <br>
+Daily announcement for today's weather, events, and top headlines (via NPR News Now podcast).
