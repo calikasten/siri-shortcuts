@@ -1,5 +1,5 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 01/19/2023.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 01/21/2023.
 
 ## Utilities
 [Backup to iCloud](https://www.icloud.com/shortcuts/569068864102446ebe48d742d82932cc) <br>
@@ -18,7 +18,7 @@ Displays a preview of the HTML source code of a web page.
 Uses a low frequency sound to eject any water from the iPhone's speakers. Original author [u/Josh6780](https://www.reddit.com/r/shortcuts/comments/9s6bng/eject_water_from_your_device_like_an_apple_watch/).
 
 ## Travel
-[Time To Leave](https://www.icloud.com/shortcuts/f2a716b2c276477e94ac8b933c1a19b9) <br>
+[Time To Leave](https://www.icloud.com/shortcuts/c5211426b1ad462e8d06b5530548f8f7) <br>
 Calculates what time to leave for the next event at a different location (based on travel time by car).
 
 [Running Late](https://www.icloud.com/shortcuts/d6978dcb118f48e190b113121ec14771) <br>
