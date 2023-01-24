@@ -1,5 +1,5 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 01/21/2023.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 01/23/2023.
 
 ## Utilities
 [Backup to iCloud](https://www.icloud.com/shortcuts/569068864102446ebe48d742d82932cc) <br>
@@ -27,8 +27,8 @@ Calculates what time to leave for the next event at a different location (based 
 [Running Late](https://www.icloud.com/shortcuts/d6978dcb118f48e190b113121ec14771) <br>
 Retrieves travel time between current location and destination of next calendar event to send via text.
 
-[Flight Departure] <br>
-Utilizes flightaware.com to send flight tracking information via text after entering airline and flight number.
+[Flight Departure](https://www.icloud.com/shortcuts/0297e37667c548c5bdd52a05bd2503f5) <br>
+Detects flight number from calendar and pre-populates text announcing departure (iMessage automatically supports flight tracking details based on flight number).
 
 [What's Nearby?](https://www.icloud.com/shortcuts/430dbf19dbc34c71afcd54f08d77491d) <br>
 Delivers a list of nearby points of interest.
