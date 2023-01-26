@@ -11,7 +11,7 @@ Converts Wi-Fi network name and password into a QR code, retrieves external IP a
 [Un-Paywall](https://www.icloud.com/shortcuts/df7170c647364e869165e673aca89c4f) <br>
 Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
 
-[ChatGPT](https://www.icloud.com/shortcuts/50595c85bf854ce79951713269477e78) <br>
+[ChatGPT](https://www.icloud.com/shortcuts/ef31e322e7014957993a1a1890fc0a83) <br>
 Interact directly with OpenAI's ChatGPT.
 
 [View Source Code](https://www.icloud.com/shortcuts/d4094f07cc70495c9e5c4a1ddcce6832) <br>
