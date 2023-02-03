@@ -1,5 +1,5 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 01/23/2023.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 02/03/2023.
 
 ## Utilities
 [Backup to iCloud](https://www.icloud.com/shortcuts/569068864102446ebe48d742d82932cc) <br>
@@ -8,7 +8,7 @@ Saves a copy of all current shortcuts to iCloud drive (utilizing .shortcut exten
 [Network Tools](https://www.icloud.com/shortcuts/3a70df6576d64664a0eea1f06461367d) <br>
 Converts Wi-Fi network name and password into a QR code, retrieves external IP address, displays physical IP location, and initiates a network speed test utilizing fast.com.
 
-[Un-Paywall](https://www.icloud.com/shortcuts/df7170c647364e869165e673aca89c4f) <br>
+[Un-Paywall](https://www.icloud.com/shortcuts/02179262bc494bd28275851fe7a0d27d) <br>
 Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
 
 [ChatGPT](https://www.icloud.com/shortcuts/ef31e322e7014957993a1a1890fc0a83) <br>
