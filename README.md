@@ -8,11 +8,11 @@ Saves a copy of all current shortcuts to iCloud drive (utilizing .shortcut exten
 [Network Tools](https://www.icloud.com/shortcuts/3a70df6576d64664a0eea1f06461367d) <br>
 Converts Wi-Fi network name and password into a QR code, retrieves external IP address, displays physical IP location, and initiates a network speed test utilizing fast.com.
 
+[ChatGPT](https://www.icloud.com/shortcuts/0019e38476ca416298abab172f705dbb) <br>
+Interact directly with OpenAI's ChatGPT.
+
 [Un-Paywall](https://www.icloud.com/shortcuts/02179262bc494bd28275851fe7a0d27d) <br>
 Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
-
-[ChatGPT]() <br>
-Interact directly with OpenAI's ChatGPT.
 
 [View Source Code](https://www.icloud.com/shortcuts/d4094f07cc70495c9e5c4a1ddcce6832) <br>
 Displays a preview of the HTML source code of a web page.
