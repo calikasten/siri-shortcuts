@@ -11,7 +11,7 @@ Converts Wi-Fi network name and password into a QR code, retrieves external IP a
 [Un-Paywall](https://www.icloud.com/shortcuts/02179262bc494bd28275851fe7a0d27d) <br>
 Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
 
-[ChatGPT](https://www.icloud.com/shortcuts/ef31e322e7014957993a1a1890fc0a83) <br>
+[ChatGPT]() <br>
 Interact directly with OpenAI's ChatGPT.
 
 [View Source Code](https://www.icloud.com/shortcuts/d4094f07cc70495c9e5c4a1ddcce6832) <br>
@@ -21,16 +21,13 @@ Displays a preview of the HTML source code of a web page.
 Uses a low frequency sound to eject any water from the iPhone's speakers. Original author [u/Josh6780](https://www.reddit.com/r/shortcuts/comments/9s6bng/eject_water_from_your_device_like_an_apple_watch/).
 
 ## Travel
-[Time To Leave](https://www.icloud.com/shortcuts/c5211426b1ad462e8d06b5530548f8f7) <br>
-Calculates what time to leave for the next event at a different location (based on travel time by car).
-
-[Running Late](https://www.icloud.com/shortcuts/d6978dcb118f48e190b113121ec14771) <br>
+[Running Late](https://www.icloud.com/shortcuts/b7bb45b362d74df4a1d69d21b61dad5d) <br>
 Retrieves travel time between current location and destination of next calendar event to send via text.
 
-[Flight Departure](https://www.icloud.com/shortcuts/6f78590f6a504915a763ff0f664c8ef4) <br>
+[Flight Departure](https://www.icloud.com/shortcuts/68acf475d96c4779b0ae32764e788b1a) <br>
 Detects flight number from calendar and pre-populates text announcing departure (iMessage automatically supports flight tracking details based on flight number).
 
-[What's Nearby?](https://www.icloud.com/shortcuts/430dbf19dbc34c71afcd54f08d77491d) <br>
+[What's Nearby?](https://www.icloud.com/shortcuts/971d8ececdfa445385c2257853b21573) <br>
 Delivers a list of nearby points of interest.
 
 ## Media
