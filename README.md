@@ -44,5 +44,5 @@ Utilizes justwatch.com to display where to stream content after entering desired
 [Fireplace](https://www.icloud.com/shortcuts/d36cb58c045f4d8e9820b15ab814f097) <br>
 Custom home automation to Airplay fireplace YouTube video on Apple TV.
 
-[Morning Briefing](Coming Soon) <br>
-Daily announcement for today's weather, events, and top headlines (via NPR News Now podcast).
+[Morning Briefing]() <br>
+Daily announcement for today's weather, events, etc.
