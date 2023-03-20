@@ -24,7 +24,7 @@ Uses a low frequency sound to eject any water from the iPhone's speakers. Origin
 [Running Late](https://www.icloud.com/shortcuts/b7bb45b362d74df4a1d69d21b61dad5d) <br>
 Retrieves travel time between current location and destination of next calendar event to send via text.
 
-[Flight Departure](https://www.icloud.com/shortcuts/68acf475d96c4779b0ae32764e788b1a) <br>
+[Flight Departure](https://www.icloud.com/shortcuts/b2bbc63dbdd1460d9be6f7a755419fdd) <br>
 Detects flight number from calendar and pre-populates text announcing departure (iMessage automatically supports flight tracking details based on flight number).
 
 [What's Nearby?](https://www.icloud.com/shortcuts/971d8ececdfa445385c2257853b21573) <br>
