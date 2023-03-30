@@ -32,12 +32,6 @@ Detects flight number from calendar and pre-populates text announcing departure 
 Delivers a list of nearby points of interest.
 
 ## Media
-[Social Media Downloader] <br>
-Downloads content from social media platforms and saves locally.
-
-[Song Links] <br>
-Utlizes song.link to get a link to sharing music across streaming platforms. Original author [u/gianflo6](https://www.reddit.com/r/shortcuts/comments/gaskty/update_songlink_the_only_music_link_converter/).
-
 [Streaming Lookup](https://www.icloud.com/shortcuts/c541857d503648719762870e1c8c3ca1) <br>
 Utilizes justwatch.com to display where to stream content after entering desired movie or tv show.
 
