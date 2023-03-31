@@ -22,6 +22,9 @@ Displays a preview of the HTML source code of a web page.
 Uses a low frequency sound to eject any water from the iPhone's speakers. Original author [u/Josh6780](https://www.reddit.com/r/shortcuts/comments/9s6bng/eject_water_from_your_device_like_an_apple_watch/).
 
 ## Travel
+[Time to Leave]() <br>
+Identifies the first event at a new location and recommends what time to leave based on the travel time.
+
 [Running Late](https://www.icloud.com/shortcuts/b7bb45b362d74df4a1d69d21b61dad5d) <br>
 Retrieves travel time between current location and destination of next calendar event to send via text.
 
