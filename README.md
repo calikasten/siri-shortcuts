@@ -22,7 +22,7 @@ Displays a preview of the HTML source code of a web page.
 Uses a low frequency sound to eject any water from the iPhone's speakers. Original author [u/Josh6780](https://www.reddit.com/r/shortcuts/comments/9s6bng/eject_water_from_your_device_like_an_apple_watch/).
 
 ## Travel
-[Time to Leave]() <br>
+[Time to Leave](https://www.icloud.com/shortcuts/59b5d0e1285f4b7181a70aee4810d282) <br>
 Identifies the first event at a new location and recommends what time to leave based on the travel time.
 
 [Running Late](https://www.icloud.com/shortcuts/b7bb45b362d74df4a1d69d21b61dad5d) <br>
@@ -39,8 +39,8 @@ Delivers a list of nearby points of interest.
 Utilizes justwatch.com to display where to stream content after entering desired movie or tv show.
 
 ### Personal/Home Automations
+[Morning Brief](https://www.icloud.com/shortcuts/cf6b386f5dd94fa4a45ce31f54bb2746) <br>
+Summary of today's weather, events, tasks, etc.
+
 [Fireplace](https://www.icloud.com/shortcuts/d36cb58c045f4d8e9820b15ab814f097) <br>
 Custom home automation to Airplay fireplace YouTube video on Apple TV.
-
-[Morning Brief]() <br>
-Summary of today's weather, events, tasks, etc.
