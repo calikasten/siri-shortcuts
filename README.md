@@ -42,5 +42,8 @@ Utilizes justwatch.com to display where to stream content after entering desired
 [Morning Brief](https://www.icloud.com/shortcuts/cf6b386f5dd94fa4a45ce31f54bb2746) <br>
 Summary of today's weather, events, tasks, etc.
 
+[Ween Watch](https://www.icloud.com/shortcuts/9a2af5fc253647f596f75d31633ea551) <br>
+Easily log activies for your wiener dog to keep track of their food, business, and exercise.
+
 [Fireplace](https://www.icloud.com/shortcuts/d36cb58c045f4d8e9820b15ab814f097) <br>
 Custom home automation to Airplay fireplace YouTube video on Apple TV.
