@@ -42,7 +42,7 @@ Utilizes justwatch.com to display where to stream content after entering desired
 [Morning Brief](https://www.icloud.com/shortcuts/cf6b386f5dd94fa4a45ce31f54bb2746) <br>
 Summary of today's weather, events, tasks, etc.
 
-[Ween Watch MVP]() <br>
+[Ween Watch MVP](https://www.icloud.com/shortcuts/48be6f77ec48467f921d226da18aead6) <br>
 Easily log activies for your wiener dog to keep track of their food, business, and exercise. MVP version that writes new record to shared Apple iCloud note.
 
 [Ween Watch 2.0]() <br>
