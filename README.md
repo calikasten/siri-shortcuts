@@ -2,7 +2,7 @@
 Siri Shortcuts for iOS, iPadOS, and macOS. 
 Last Updated 04/21/2023.
 
-<br> ## Utilities
+## Utilities
 [Backup to iCloud](https://www.icloud.com/shortcuts/569068864102446ebe48d742d82932cc) <br>
 Saves a copy of all current shortcuts to iCloud drive (utilizing .shortcut extension).
 
@@ -21,7 +21,7 @@ Displays a preview of the HTML source code of a web page.
 [Eject Water](https://www.icloud.com/shortcuts/81cf12d2d2e946b0b9ac039980a1edfa) <br>
 Uses a low frequency sound to eject any water from the iPhone's speakers. Original author [u/Josh6780](https://www.reddit.com/r/shortcuts/comments/9s6bng/eject_water_from_your_device_like_an_apple_watch/).
 
-<br> ## Travel
+## Travel
 [Time to Leave](https://www.icloud.com/shortcuts/59b5d0e1285f4b7181a70aee4810d282) <br>
 Identifies the first event at a new location and recommends what time to leave based on the travel time.
 
@@ -34,11 +34,11 @@ Detects flight number from calendar and pre-populates text announcing departure 
 [What's Nearby?](https://www.icloud.com/shortcuts/971d8ececdfa445385c2257853b21573) <br>
 Delivers a list of nearby points of interest.
 
-<br> ## Media
+## Media
 [Streaming Lookup](https://www.icloud.com/shortcuts/c541857d503648719762870e1c8c3ca1) <br>
 Utilizes justwatch.com to display where to stream content after entering desired movie or tv show.
 
-<br> ## Personal/Home Automations
+## Personal/Home Automations
 [Morning Brief](https://www.icloud.com/shortcuts/cf6b386f5dd94fa4a45ce31f54bb2746) <br>
 Summary of today's weather, events, tasks, etc.
 
@@ -51,6 +51,6 @@ Easily log activies for your wiener dog to keep track of their food, business, a
 [Fireplace](https://www.icloud.com/shortcuts/d36cb58c045f4d8e9820b15ab814f097) <br>
 Custom home automation to Airplay fireplace YouTube video on Apple TV.
 
-<br> ## Archived
+## Archived
 [ChatGPT](https://www.icloud.com/shortcuts/0019e38476ca416298abab172f705dbb) <br>
 Interact directly with OpenAI's ChatGPT. Update as of 4/21/23: OpenAI no longer supporting free API calls.
