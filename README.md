@@ -48,9 +48,6 @@ Easily log activies for your wiener dog to keep track of their food, business, a
 [Ween Watch 2.0]() <br>
 Easily log activies for your wiener dog to keep track of their food, business, and exercise. Version 2.0 sends POST request to Airtable API to create new record in shared Airtable database.
 
-[Fireplace](https://www.icloud.com/shortcuts/d36cb58c045f4d8e9820b15ab814f097) <br>
-Custom home automation to Airplay fireplace YouTube video on Apple TV.
-
 ## Archived
 [ChatGPT](https://www.icloud.com/shortcuts/0019e38476ca416298abab172f705dbb) <br>
 Interact directly with OpenAI's ChatGPT. Update as of 4/21/23: OpenAI no longer supporting free API calls.
