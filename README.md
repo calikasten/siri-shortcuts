@@ -12,7 +12,7 @@ Converts Wi-Fi network name and password into a QR code, retrieves external IP a
 [Un-Paywall](https://www.icloud.com/shortcuts/02179262bc494bd28275851fe7a0d27d) <br>
 Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
 
-[New Airtable Record](https://www.icloud.com/shortcuts/2c6f45ac94c64d1987a073a28b2759a6) <br>
+[New Airtable Record](https://www.icloud.com/shortcuts/54239b5f807b402da42a96e8aad8a046) <br>
 Create a new airtable record to a Test database via POST request to Airtable API in order to test storing different data type inputs: string, number, boolean, duration, and single-select array.
 
 [View Source Code](https://www.icloud.com/shortcuts/d4094f07cc70495c9e5c4a1ddcce6832) <br>
@@ -46,8 +46,5 @@ Summary of today's weather, events, tasks, etc.
 Easily log activies for your wiener dog to keep track of their food, business, and exercise. MVP version that writes new record to shared Apple iCloud note.
 
 [Ween Watch 2.0]() <br>
-Easily log activies for your wiener dog to keep track of their food, business, and exercise. Version 2.0 sends POST request to Airtable API to create new record in shared Airtable database.
-
-## Archived
-[ChatGPT](https://www.icloud.com/shortcuts/0019e38476ca416298abab172f705dbb) <br>
+Easily log activies for your wiener dog to keep track of their food, business, and exercise. Version 2.0 sends POST request to Airtable API to create new record in shared Airtable database.oud.com/shortcuts/0019e38476ca416298abab172f705dbb) <br>
 Interact directly with OpenAI's ChatGPT. Update as of 4/21/23: OpenAI no longer supporting free API calls.
