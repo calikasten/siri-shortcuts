@@ -6,7 +6,7 @@ Last Updated 04/22/2023.
 [Backup to iCloud](https://www.icloud.com/shortcuts/569068864102446ebe48d742d82932cc) <br>
 Saves a copy of all current shortcuts to iCloud drive (utilizing .shortcut extension).
 
-[Network Tools](https://www.icloud.com/shortcuts/1949a8d16a7e41ab835187c35956066b) <br>
+[Network Tools](https://www.icloud.com/shortcuts/a3d8e8ac58904cd48337cedc30bff9e4) <br>
 Converts Wi-Fi network name and password into a QR code, retrieves external IP address, displays physical IP location, and initiates a network speed test utilizing fast.com.
 
 [Un-Paywall](https://www.icloud.com/shortcuts/02179262bc494bd28275851fe7a0d27d) <br>
