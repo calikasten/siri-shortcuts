@@ -45,6 +45,5 @@ Summary of today's weather, events, tasks, etc.
 [Ween Watch MVP](https://www.icloud.com/shortcuts/48be6f77ec48467f921d226da18aead6) <br>
 Easily log activies for your wiener dog to keep track of their food, business, and exercise. MVP version that writes new record to shared Apple iCloud note.
 
-[Ween Watch 2.0]() <br>
-Easily log activies for your wiener dog to keep track of their food, business, and exercise. Version 2.0 sends POST request to Airtable API to create new record in shared Airtable database.oud.com/shortcuts/0019e38476ca416298abab172f705dbb) <br>
-Interact directly with OpenAI's ChatGPT. Update as of 4/21/23: OpenAI no longer supporting free API calls.
+[Ween Watch 2.0](https://www.icloud.com/shortcuts/b0a3f953c67e489bbe08292c4a8e0d7d) <br>
+Easily log activies for your wiener dog to keep track of their food, business, and exercise. Version 2.0 sends a POST request to the Airtable API to create new record in shared Airtable database.
