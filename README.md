@@ -35,7 +35,7 @@ Delivers a list of nearby points of interest.
 [Streaming Lookup](https://www.icloud.com/shortcuts/c541857d503648719762870e1c8c3ca1) <br>
 Utilizes justwatch.com to display where to stream content after entering desired movie or tv show.
 
-## Personal/Home Automations
+## Personal
 [Morning Brief](https://www.icloud.com/shortcuts/cf6b386f5dd94fa4a45ce31f54bb2746) <br>
 Summary of today's weather, events, tasks, etc.
 
