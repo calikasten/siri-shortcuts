@@ -40,7 +40,10 @@ Utilizes justwatch.com to display where to stream content after entering desired
 Summary of today's weather, events, tasks, etc.
 
 [Ween Watch MVP](https://www.icloud.com/shortcuts/48be6f77ec48467f921d226da18aead6) <br>
-Easily log activies for your wiener dog to keep track of their food, business, and exercise. MVP version that writes new record to shared Apple iCloud note.
+Log activies for your wiener dog to keep track of their food, business, and exercise. MVP version that writes new record to shared Apple iCloud note.
 
-[Ween Watch 2.0](https://www.icloud.com/shortcuts/acacd5f96bca4741975923aba3532b8b) <br>
-Easily log activies for your wiener dog to keep track of their food, business, and exercise. Version 2.0 sends a POST request to the Airtable API to create new record in shared Airtable database.
+[Ween Watch 2.0]() <br>
+Log activies for your wiener dog to keep track of their food, business, and exercise. Version 2.0 sends a POST request to the Airtable API to create new record in shared Airtable database.
+
+[Dog Days MVP](https://www.icloud.com/shortcuts/8b4ab84158764de0b1d6a363b26de690) <br>
+View your wiener dog's most recent activities like food, business, and exercise. MVP shows alert dialogue with the timestamp and time difference calculation since that last activity.
