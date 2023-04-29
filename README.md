@@ -46,4 +46,4 @@ Log activies for your wiener dog to keep track of their food, business, and exer
 Log activies for your wiener dog to keep track of their food, business, and exercise. Version 2.0 sends a POST request to the Airtable API to create new record in shared Airtable database.
 
 [Dog Days MVP](https://www.icloud.com/shortcuts/8b4ab84158764de0b1d6a363b26de690) <br>
-View your wiener dog's most recent activities like food, business, and exercise. MVP shows alert dialogue with the timestamp and time difference calculation since that last activity.
+View your wiener dog's most recent activities like food, business, and exercise. MVP is an alert dialogue using GET requests to Airtable API for latest timestamp and time difference calculation for a given activity.
