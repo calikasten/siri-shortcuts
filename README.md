@@ -42,7 +42,7 @@ Summary of today's weather, events, tasks, etc.
 [Ween Watch MVP](https://www.icloud.com/shortcuts/48be6f77ec48467f921d226da18aead6) <br>
 Log activies for your wiener dog to keep track of their food, business, and exercise. MVP version that writes new record to shared Apple iCloud note.
 
-[Ween Watch 2.0](https://www.icloud.com/shortcuts/1c2798c88345403e93c5f7b8524a6c4d) <br>
+[Ween Watch 2.0](https://www.icloud.com/shortcuts/65d07941b2bb4fd0a7b1d6d54629697f) <br>
 Log activies for your wiener dog to keep track of their food, business, and exercise. Version 2.0 sends a POST request to the Airtable API to create new record in shared Airtable database.
 
 [Dog Days MVP](https://www.icloud.com/shortcuts/8b4ab84158764de0b1d6a363b26de690) <br>
