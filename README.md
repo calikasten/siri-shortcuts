@@ -13,10 +13,10 @@ Converts Wi-Fi network name and password into a QR code, retrieves external IP a
 Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
 
 [New Airtable Record](https://www.icloud.com/shortcuts/0cfe2c378bbd4652a19ccb7849506740) <br>
-
+A template to test POST requests to the Airtable API for creating new records in a cloud database with different data types (string, number, boolean, duration, single-select arrays, and multi-select arrays).
 
 [Rich Text From HTML](https://www.icloud.com/shortcuts/2b95cc3a377643919ebfd76a471f946f) <br>
-
+A template for creating rich test from HTML and displaying content via a "Quick Look" action.
 
 [View Source Code](https://www.icloud.com/shortcuts/d4094f07cc70495c9e5c4a1ddcce6832) <br>
 Displays a preview of the HTML source code of a web page.
