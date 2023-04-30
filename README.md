@@ -1,6 +1,6 @@
 # Siri Shortcuts
 Siri Shortcuts for iOS, iPadOS, and macOS. 
-Last Updated 04/29/2023.
+Last Updated 04/30/2023.
 
 ## Utilities
 [Backup to iCloud](https://www.icloud.com/shortcuts/569068864102446ebe48d742d82932cc) <br>
@@ -11,6 +11,12 @@ Converts Wi-Fi network name and password into a QR code, retrieves external IP a
 
 [Un-Paywall](https://www.icloud.com/shortcuts/02179262bc494bd28275851fe7a0d27d) <br>
 Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
+
+[New Airtable Record](https://www.icloud.com/shortcuts/0cfe2c378bbd4652a19ccb7849506740) <br>
+
+
+[Rich Text From HTML](https://www.icloud.com/shortcuts/2b95cc3a377643919ebfd76a471f946f) <br>
+
 
 [View Source Code](https://www.icloud.com/shortcuts/d4094f07cc70495c9e5c4a1ddcce6832) <br>
 Displays a preview of the HTML source code of a web page.
