@@ -18,7 +18,7 @@ A template to test POST requests to the Airtable API for creating new records in
 [Rich Text From HTML](https://www.icloud.com/shortcuts/2b95cc3a377643919ebfd76a471f946f) <br>
 A template for creating rich test from HTML and displaying content via a "Quick Look" action.
 
-[View Source Code](https://www.icloud.com/shortcuts/d4094f07cc70495c9e5c4a1ddcce6832) <br>
+[View Source Code](https://www.icloud.com/shortcuts/08a196774173491ab39ba3413db4a0dc) <br>
 Displays a preview of the HTML source code of a web page.
 
 [Eject Water](https://www.icloud.com/shortcuts/81cf12d2d2e946b0b9ac039980a1edfa) <br>
