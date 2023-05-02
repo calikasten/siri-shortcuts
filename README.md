@@ -9,7 +9,7 @@ Saves a copy of all current shortcuts to iCloud drive (utilizing .shortcut exten
 [Network Tools](https://www.icloud.com/shortcuts/a3d8e8ac58904cd48337cedc30bff9e4) <br>
 Converts Wi-Fi network name and password into a QR code, retrieves external IP address, displays physical IP location, and initiates a network speed test utilizing fast.com.
 
-[Un-Paywall](https://www.icloud.com/shortcuts/02179262bc494bd28275851fe7a0d27d) <br>
+[Un-Paywall](https://www.icloud.com/shortcuts/642b062b504b4abda5ae5b3551d1fe53) <br>
 Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
 
 [New Airtable Record](https://www.icloud.com/shortcuts/0cfe2c378bbd4652a19ccb7849506740) <br>
