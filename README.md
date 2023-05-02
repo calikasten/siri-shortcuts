@@ -9,7 +9,7 @@ Saves a copy of all current shortcuts to iCloud drive (utilizing .shortcut exten
 [Network Tools](https://www.icloud.com/shortcuts/a3d8e8ac58904cd48337cedc30bff9e4) <br>
 Converts Wi-Fi network name and password into a QR code, retrieves external IP address, displays physical IP location, and initiates a network speed test utilizing fast.com.
 
-[Un-Paywall](https://www.icloud.com/shortcuts/642b062b504b4abda5ae5b3551d1fe53) <br>
+[Un-Paywall](https://www.icloud.com/shortcuts/27c0b4b57d0a4af3a092cb144c923d93) <br>
 Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
 
 [New Airtable Record](https://www.icloud.com/shortcuts/0cfe2c378bbd4652a19ccb7849506740) <br>
@@ -25,7 +25,7 @@ Displays a preview of the HTML source code of a web page.
 Uses a low frequency sound to eject any water from the iPhone's speakers. Original author [u/Josh6780](https://www.reddit.com/r/shortcuts/comments/9s6bng/eject_water_from_your_device_like_an_apple_watch/).
 
 ## Travel
-[Time to Leave](https://www.icloud.com/shortcuts/59b5d0e1285f4b7181a70aee4810d282) <br>
+[Time to Leave](https://www.icloud.com/shortcuts/4f0d371bd9404e3eb32c64fd8204b37a) <br>
 Identifies the first event at a new location and recommends what time to leave based on the travel time.
 
 [Running Late](https://www.icloud.com/shortcuts/b7bb45b362d74df4a1d69d21b61dad5d) <br>
