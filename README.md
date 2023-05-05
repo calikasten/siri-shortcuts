@@ -1,6 +1,6 @@
 # Siri Shortcuts
 Siri Shortcuts for iOS, iPadOS, and macOS. 
-Last Updated 05/03/2023.
+Last Updated 05/05/2023.
 
 ## Utilities
 [Backup to iCloud](https://www.icloud.com/shortcuts/569068864102446ebe48d742d82932cc) <br>
@@ -52,4 +52,4 @@ Log activies for your wiener dog to keep track of their food, business, and exer
 Log activies for your wiener dog to keep track of their food, business, and exercise. Version 2.0 sends a POST request to the Airtable API to create new record in shared Airtable database.
 
 [Dog Days MVP](https://www.icloud.com/shortcuts/4cc7bf916b34495989bd53734addf921) <br>
-View your wiener dog's most recent activities like food, business, and exercise. MVP is an alert dialogue using GET requests to Airtable API for latest timestamp and time difference calculation for a given activity.
+View the time since your wiener dog's latest activities like business, food, exercise. MVP is an alert dialogue using GET requests to Airtable API for latest timestamp and time difference calculation for a given activity.
