@@ -31,7 +31,7 @@ Identifies the first event at a new location and recommends what time to leave b
 [Running Late](https://www.icloud.com/shortcuts/b7bb45b362d74df4a1d69d21b61dad5d) <br>
 Retrieves travel time between current location and destination of next calendar event to send via text.
 
-[Flight Departure](https://www.icloud.com/shortcuts/b2bbc63dbdd1460d9be6f7a755419fdd) <br>
+[Flight Departure](https://www.icloud.com/shortcuts/d62d2e025be943649f965b7f01e8d584) <br>
 Detects flight number from calendar and pre-populates text announcing departure (iMessage automatically supports flight tracking details based on flight number).
 
 [What's Nearby?](https://www.icloud.com/shortcuts/971d8ececdfa445385c2257853b21573) <br>
