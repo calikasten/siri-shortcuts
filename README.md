@@ -1,6 +1,6 @@
 # Siri Shortcuts
 Siri Shortcuts for iOS, iPadOS, and macOS. 
-Last Updated 05/09/2023.
+Last Updated 05/15/2023.
 
 ## Utilities
 [Backup to iCloud](https://www.icloud.com/shortcuts/569068864102446ebe48d742d82932cc) <br>
@@ -45,5 +45,5 @@ Utilizes justwatch.com to display where to stream content after entering desired
 [Morning Brief](https://www.icloud.com/shortcuts/cf6b386f5dd94fa4a45ce31f54bb2746) <br>
 Summary of today's weather, events, tasks, etc.
 
-[Ween Watch 2.0](https://www.icloud.com/shortcuts/67de977432dc4c128d58d00336fc76b9) <br>
+[Ween Watch 2.0](https://www.icloud.com/shortcuts/9b33f52caf364849abcae25a9f5bd333) <br>
 Log activies for your wiener dog to keep track of their food, business, and exercise. Version 2.0 sends a POST request to the Airtable API to create new record in shared Airtable database.
