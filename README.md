@@ -1,6 +1,6 @@
 # Siri Shortcuts
 Siri Shortcuts for iOS, iPadOS, and macOS. 
-Last Updated 05/15/2023.
+Last Updated 07/13/2023.
 
 ## Utilities
 [Backup to iCloud](https://www.icloud.com/shortcuts/569068864102446ebe48d742d82932cc) <br>
@@ -12,7 +12,7 @@ Converts Wi-Fi network name and password into a QR code, retrieves external IP a
 [Un-Paywall](https://www.icloud.com/shortcuts/27c0b4b57d0a4af3a092cb144c923d93) <br>
 Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
 
-[New Airtable Record](https://www.icloud.com/shortcuts/0cfe2c378bbd4652a19ccb7849506740) <br>
+[New Airtable Record](https://www.icloud.com/shortcuts/11257702a6304a7599cf7e70615a6cbb) <br>
 A template to test POST requests to the Airtable API for creating new records in a cloud database with different data types (string, number, boolean, duration, single-select arrays, and multi-select arrays).
 
 [Rich Text From HTML](https://www.icloud.com/shortcuts/2b95cc3a377643919ebfd76a471f946f) <br>
@@ -42,8 +42,5 @@ Delivers a list of nearby points of interest.
 Utilizes justwatch.com to display where to stream content after entering desired movie or tv show.
 
 ## Personal
-[Morning Brief](https://www.icloud.com/shortcuts/cf6b386f5dd94fa4a45ce31f54bb2746) <br>
-Summary of today's weather, events, tasks, etc.
-
 [Ween Watch 2.0](https://www.icloud.com/shortcuts/9b33f52caf364849abcae25a9f5bd333) <br>
 Log activies for your wiener dog to keep track of their food, business, and exercise. Version 2.0 sends a POST request to the Airtable API to create new record in shared Airtable database.
