@@ -28,10 +28,10 @@ A template for creating rich test from HTML and displaying content via a "Quick 
 Uses a low frequency sound to eject any water from the iPhone's speakers. Original author [u/Josh6780](https://www.reddit.com/r/shortcuts/comments/9s6bng/eject_water_from_your_device_like_an_apple_watch/).
 
 ## Travel
-[Time to Leave](https://www.icloud.com/shortcuts/4f0d371bd9404e3eb32c64fd8204b37a) <br>
+[Time to Leave](https://github.com/calikasten/siri-shortcuts/blob/main/Time%20To%20Leave.shortcut) <br>
 Identifies the first event at a new location and recommends what time to leave based on the travel time.
 
-[Running Late](https://github.com/calikasten/siri-shortcuts/blob/main/Running%20Late.shortcut) <br>
+[Running Late]() <br>
 Retrieves travel time between current location and destination of next calendar event to send via text.
 
 [Flight Departure](https://www.icloud.com/shortcuts/d62d2e025be943649f965b7f01e8d584) <br>
