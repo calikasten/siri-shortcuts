@@ -31,7 +31,7 @@ Uses a low frequency sound to eject any water from the iPhone's speakers. Origin
 [Time to Leave](https://github.com/calikasten/siri-shortcuts/blob/main/Time%20To%20Leave.shortcut) <br>
 Identifies the first event at a new location and recommends what time to leave based on the travel time.
 
-[Running Late]() <br>
+[Running Late](https://github.com/calikasten/siri-shortcuts/blob/main/Running%20Late.shortcut) <br>
 Retrieves travel time between current location and destination of next calendar event to send via text.
 
 [Flight Departure](https://www.icloud.com/shortcuts/d62d2e025be943649f965b7f01e8d584) <br>
