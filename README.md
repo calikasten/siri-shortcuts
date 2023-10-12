@@ -12,7 +12,7 @@ Converts Wi-Fi network name and password into a QR code, retrieves external IP a
 [Un-Paywall](https://www.icloud.com/shortcuts/27c0b4b57d0a4af3a092cb144c923d93) <br>
 Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
 
-[Shortcut List]() <br>
+[Shortcut List](https://github.com/calikasten/siri-shortcuts/blob/main/Shortcut%20List.shortcut) <br>
 Opens list of shortcuts to select from. 
 
 [View Source Code](https://www.icloud.com/shortcuts/08a196774173491ab39ba3413db4a0dc) <br>
