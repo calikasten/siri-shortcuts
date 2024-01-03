@@ -28,17 +28,20 @@ Bypasses internet content paywalls by taking URL contents and converting to base
 Displays a preview of the HTML source code of a web page.
 
 ## Travel
+[Current Altitude](https://github.com/calikasten/siri-shortcuts/blob/main/Current%20Altitude.shortcut) <br>
+Gets altitude from current location and displays the number of feet above sea level.
+
+[GPS Coordinates(https://github.com/calikasten/siri-shortcuts/blob/main/GPS%20Coordinates.shortcut) <br>
+Gets latitude and longitude for current location and copies to the clipboard.
+
+[Flight Departure](https://github.com/calikasten/siri-shortcuts/blob/main/Flight%20Departure.shortcut) <br>
+Detects flight number from calendar and pre-populates text announcing departure (iMessage automatically supports flight tracking details based on flight number).
+
 [Time to Leave](https://github.com/calikasten/siri-shortcuts/blob/main/Time%20To%20Leave.shortcut) <br>
 Identifies the first event at a new location and recommends what time to leave based on the travel time.
 
 [Running Late](https://github.com/calikasten/siri-shortcuts/blob/main/Running%20Late.shortcut) <br>
 Retrieves travel time between current location and destination of next calendar event to send via text.
-
-[Flight Departure](https://github.com/calikasten/siri-shortcuts/blob/main/Flight%20Departure.shortcut) <br>
-Detects flight number from calendar and pre-populates text announcing departure (iMessage automatically supports flight tracking details based on flight number).
-
-[What's Nearby?](https://github.com/calikasten/siri-shortcuts/blob/main/What’s%20Nearby%3F.shortcut) <br>
-Delivers a list of nearby points of interest.
 
 ## Media
 [Streaming Lookup](https://github.com/calikasten/siri-shortcuts/blob/main/Streaming%20Lookup.shortcut) <br>
