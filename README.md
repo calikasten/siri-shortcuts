@@ -6,6 +6,9 @@ Last Updated 01/03/2023.
 [Add Multiple Reminders](https://github.com/calikasten/siri-shortcuts/blob/main/Add%20Multiple%20Reminders.shortcut) <br>
 Allows for text on each input line to be added as individual list items in the Reminders app.
 
+[Date Countdown](https://github.com/calikasten/siri-shortcuts/blob/main/Date%20Countdown.shortcut) <br>
+Asks for a date input for the countdown and then displays the number of days until the date input.
+
 ## Travel
 [Time to Leave](https://github.com/calikasten/siri-shortcuts/blob/main/Time%20To%20Leave.shortcut) <br>
 Identifies the first event at a new location and recommends what time to leave based on the travel time.
