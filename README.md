@@ -12,9 +12,6 @@ Asks for a date input and then displays available time blocks based on when cale
 [Date Countdown](https://github.com/calikasten/siri-shortcuts/blob/main/Date%20Countdown.shortcut) <br>
 Asks for a date input for the countdown and then displays the number of days until the date input.
 
-[Date Countdown](https://github.com/calikasten/siri-shortcuts/blob/main/Date%20Countdown.shortcut) <br>
-Asks for a date input for the countdown and then displays the number of days until the date input.
-
 [Download App Icon](https://github.com/calikasten/siri-shortcuts/blob/main/Download%20App%20Icon.shortcut) <br>
 Asks for a text input to look up the app in the App Store and then download the square and masked icons to the iCloud Downloads folder.
 
