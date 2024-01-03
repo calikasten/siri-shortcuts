@@ -21,8 +21,11 @@ A template for creating rich test from HTML and displaying content via a "Quick 
 [Shortcut List](https://github.com/calikasten/siri-shortcuts/blob/main/Shortcut%20List.shortcut) <br>
 Opens list of shortcuts to select from.
 
+[Special Characters](https://github.com/calikasten/siri-shortcuts/blob/main/Special%20Characters.shortcut) <br>
+Opens a list of common special characters and copies the selected special character to the clipboard.
+
 [Timestamp Formats](https://github.com/calikasten/siri-shortcuts/blob/main/Timestamp%20Formats.shortcut) <br>
-Presents a list of common timestamp formats based on a provided date/time input and copies the selected format to the clipboard.
+Opens a list of common timestamp formats based on a provided date/time input and copies the selected format to the clipboard.
 
 [Toggle White Noise](https://github.com/calikasten/siri-shortcuts/blob/main/Toggle%20White%20Noise.shortcut) <br>
 Toggles white noise on/off using iPhone/iPad background sounds.
