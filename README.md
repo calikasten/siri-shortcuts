@@ -2,6 +2,27 @@
 Siri Shortcuts for iOS, iPadOS, and macOS. 
 Last Updated 01/03/2023.
 
+## Productivity
+[Add Multiple Reminders](https://github.com/calikasten/siri-shortcuts/blob/main/Add%20Multiple%20Reminders.shortcut) <br>
+Allows for text on each input line to be added as individual list items in the Reminders app.
+
+## Travel
+[Time to Leave](https://github.com/calikasten/siri-shortcuts/blob/main/Time%20To%20Leave.shortcut) <br>
+Identifies the first event at a new location and recommends what time to leave based on the travel time.
+
+[Running Late](https://github.com/calikasten/siri-shortcuts/blob/main/Running%20Late.shortcut) <br>
+Retrieves travel time between current location and destination of next calendar event to send via text.
+
+[Flight Departure](https://github.com/calikasten/siri-shortcuts/blob/main/Flight%20Departure.shortcut) <br>
+Detects flight number from calendar and pre-populates text announcing departure (iMessage automatically supports flight tracking details based on flight number).
+
+[What's Nearby?](https://github.com/calikasten/siri-shortcuts/blob/main/What’s%20Nearby%3F.shortcut) <br>
+Delivers a list of nearby points of interest.
+
+## Media
+[Streaming Lookup](https://github.com/calikasten/siri-shortcuts/blob/main/Streaming%20Lookup.shortcut) <br>
+Utilizes [justwatch.com](justwatch.com) to display where to stream content after entering desired movie or tv show.
+
 ## Utilities
 [Backup to iCloud](https://github.com/calikasten/siri-shortcuts/blob/main/Backup%20To%20iCloud.shortcut) <br>
 Saves a copy of all current shortcuts to iCloud drive (utilizing .shortcut extension).
@@ -44,23 +65,6 @@ Bypasses internet content paywalls by taking URL contents and converting to base
 
 [View Source Code](https://www.icloud.com/shortcuts/08a196774173491ab39ba3413db4a0dc) <br>
 Displays a preview of the HTML source code of a web page.
-
-## Travel
-[Time to Leave](https://github.com/calikasten/siri-shortcuts/blob/main/Time%20To%20Leave.shortcut) <br>
-Identifies the first event at a new location and recommends what time to leave based on the travel time.
-
-[Running Late](https://github.com/calikasten/siri-shortcuts/blob/main/Running%20Late.shortcut) <br>
-Retrieves travel time between current location and destination of next calendar event to send via text.
-
-[Flight Departure](https://github.com/calikasten/siri-shortcuts/blob/main/Flight%20Departure.shortcut) <br>
-Detects flight number from calendar and pre-populates text announcing departure (iMessage automatically supports flight tracking details based on flight number).
-
-[What's Nearby?](https://github.com/calikasten/siri-shortcuts/blob/main/What’s%20Nearby%3F.shortcut) <br>
-Delivers a list of nearby points of interest.
-
-## Media
-[Streaming Lookup](https://github.com/calikasten/siri-shortcuts/blob/main/Streaming%20Lookup.shortcut) <br>
-Utilizes justwatch.com to display where to stream content after entering desired movie or tv show.
 
 ## Personal
 [Ween Watch 2.0](https://github.com/calikasten/siri-shortcuts/blob/main/Ween%20Watch%202.0.shortcut) <br>
