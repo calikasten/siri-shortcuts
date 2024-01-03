@@ -47,6 +47,9 @@ Identifies the first event at a new location and recommends what time to leave b
 Retrieves travel time between current location and destination of next calendar event to send via text.
 
 ## Media
+[Influencer Mode] <br>
+Asks for a text input and then posts on both Threads and Mastadon.
+
 [Streaming Lookup](https://github.com/calikasten/siri-shortcuts/blob/main/Streaming%20Lookup.shortcut) <br>
 Utilizes [justwatch.com](justwatch.com) to display where to stream content after entering desired movie or tv show.
 
@@ -77,9 +80,6 @@ Turns on AirDrop receiving on for "Everyone" for 10 minutes.
 
 
 ## Personal
-[Influencer Mode] <br>
-Asks for a text input and then posts on both Threads and Mastadon.
-
 [Start Coffee] <br>
 Begins boiling water in the smart electric kettle and turns on the SwitchBot that controls the coffee grinder.
 
