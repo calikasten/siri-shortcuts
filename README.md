@@ -31,7 +31,7 @@ Displays a preview of the HTML source code of a web page.
 [Current Altitude](https://github.com/calikasten/siri-shortcuts/blob/main/Current%20Altitude.shortcut) <br>
 Gets altitude from current location and displays the number of feet above sea level.
 
-[GPS Coordinates(https://github.com/calikasten/siri-shortcuts/blob/main/GPS%20Coordinates.shortcut) <br>
+[GPS Coordinates](https://github.com/calikasten/siri-shortcuts/blob/main/GPS%20Coordinates.shortcut) <br>
 Gets latitude and longitude for current location and copies to the clipboard.
 
 [Flight Departure](https://github.com/calikasten/siri-shortcuts/blob/main/Flight%20Departure.shortcut) <br>
