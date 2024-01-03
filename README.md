@@ -1,22 +1,16 @@
 # Siri Shortcuts
 Siri Shortcuts for iOS, iPadOS, and macOS. 
-Last Updated 10/12/2023.
+Last Updated 01/03/2023.
 
 ## Utilities
 [Backup to iCloud](https://www.icloud.com/shortcuts/569068864102446ebe48d742d82932cc) <br>
 Saves a copy of all current shortcuts to iCloud drive (utilizing .shortcut extension).
 
+[Eject Water](https://www.icloud.com/shortcuts/81cf12d2d2e946b0b9ac039980a1edfa) <br>
+Uses a low frequency sound to eject any water from the iPhone's speakers. Original author [u/Josh6780](https://www.reddit.com/r/shortcuts/comments/9s6bng/eject_water_from_your_device_like_an_apple_watch/).
+
 [Network Tools](https://www.icloud.com/shortcuts/3f97dcfed3ed458991f072f3b30190de) <br>
 Converts Wi-Fi network name and password into a QR code, retrieves external IP address, displays physical IP location, and initiates a network speed test utilizing fast.com.
-
-[Un-Paywall](https://www.icloud.com/shortcuts/27c0b4b57d0a4af3a092cb144c923d93) <br>
-Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
-
-[Shortcut List](https://github.com/calikasten/siri-shortcuts/blob/main/Shortcut%20List.shortcut) <br>
-Opens list of shortcuts to select from. 
-
-[View Source Code](https://www.icloud.com/shortcuts/08a196774173491ab39ba3413db4a0dc) <br>
-Displays a preview of the HTML source code of a web page.
 
 [New Airtable Record](https://www.icloud.com/shortcuts/11257702a6304a7599cf7e70615a6cbb) <br>
 A template to test POST requests to the Airtable API for creating new records in a cloud database with different data types (string, number, boolean, duration, single-select arrays, and multi-select arrays).
@@ -24,8 +18,26 @@ A template to test POST requests to the Airtable API for creating new records in
 [Rich Text From HTML](https://www.icloud.com/shortcuts/2b95cc3a377643919ebfd76a471f946f) <br>
 A template for creating rich test from HTML and displaying content via a "Quick Look" action.
 
-[Eject Water](https://www.icloud.com/shortcuts/81cf12d2d2e946b0b9ac039980a1edfa) <br>
-Uses a low frequency sound to eject any water from the iPhone's speakers. Original author [u/Josh6780](https://www.reddit.com/r/shortcuts/comments/9s6bng/eject_water_from_your_device_like_an_apple_watch/).
+[Shortcut List](https://github.com/calikasten/siri-shortcuts/blob/main/Shortcut%20List.shortcut) <br>
+Opens list of shortcuts to select from.
+
+[Timestamp Formats](https://github.com/calikasten/siri-shortcuts/blob/main/Timestamp%20Formats.shortcut) <br>
+Presents a list of common timestamp formats based on a provided date/time input and copies the selected format to the clipboard.
+
+[Toggle White Noise](https://github.com/calikasten/siri-shortcuts/blob/main/Toggle%20White%20Noise.shortcut) <br>
+Toggles white noise on/off using iPhone/iPad background sounds.
+
+[Toggle VPN](https://github.com/calikasten/siri-shortcuts/blob/main/Toggle%20VPN.shortcut) <br>
+Toggles the designated VPN on or off. 
+
+[Turn On AirDrop](https://github.com/calikasten/siri-shortcuts/blob/main/Turn%20On%20AirDrop.shortcut) <br>
+Turns on AirDrop receiving on for "Everyone" for 10 minutes.
+
+[Un-Paywall](https://www.icloud.com/shortcuts/27c0b4b57d0a4af3a092cb144c923d93) <br>
+Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
+
+[View Source Code](https://www.icloud.com/shortcuts/08a196774173491ab39ba3413db4a0dc) <br>
+Displays a preview of the HTML source code of a web page.
 
 ## Travel
 [Time to Leave](https://github.com/calikasten/siri-shortcuts/blob/main/Time%20To%20Leave.shortcut) <br>
