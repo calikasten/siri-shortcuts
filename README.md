@@ -6,6 +6,9 @@ Last Updated 01/03/2023.
 [Add Multiple Reminders](https://github.com/calikasten/siri-shortcuts/blob/main/Add%20Multiple%20Reminders.shortcut) <br>
 Allows for text on each input line to be added as individual list items in the Reminders app.
 
+[Availability by Date]()
+Asks for a date input and then displays available time blocks based on when calendar events are not present.
+
 [Date Countdown](https://github.com/calikasten/siri-shortcuts/blob/main/Date%20Countdown.shortcut) <br>
 Asks for a date input for the countdown and then displays the number of days until the date input.
 
@@ -74,5 +77,11 @@ Turns on AirDrop receiving on for "Everyone" for 10 minutes.
 
 
 ## Personal
+[Influencer Mode]() <br>
+Asks for a text input and then posts on both Threads and Mastadon.
+
+[Start Coffee]() <br>
+Begins boiling water in the smart electric kettle and turns on the SwitchBot that controls the coffee grinder.
+
 [Ween Watch 2.0](https://github.com/calikasten/siri-shortcuts/blob/main/Ween%20Watch%202.0.shortcut) <br>
 Log activies for your wiener dog to keep track of their food, business, and exercise. Version 2.0 sends a POST request to the Airtable API to create new record in shared Airtable database.
