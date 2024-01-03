@@ -12,6 +12,12 @@ Asks for a date input and then displays available time blocks based on when cale
 [Date Countdown](https://github.com/calikasten/siri-shortcuts/blob/main/Date%20Countdown.shortcut) <br>
 Asks for a date input for the countdown and then displays the number of days until the date input.
 
+[Date Countdown](https://github.com/calikasten/siri-shortcuts/blob/main/Date%20Countdown.shortcut) <br>
+Asks for a date input for the countdown and then displays the number of days until the date input.
+
+[Download App Icon](https://github.com/calikasten/siri-shortcuts/blob/main/Download%20App%20Icon.shortcut) <br>
+Asks for a text input to look up the app in the App Store and then download the square and masked icons to the iCloud Downloads folder.
+
 [Generate QR Code](https://github.com/calikasten/siri-shortcuts/blob/main/Generate%20QR%20Code.shortcut) <br>
 Asks for a URL input to create a QR code for and copies the QR code to the clipboard.
 
@@ -47,9 +53,6 @@ Identifies the first event at a new location and recommends what time to leave b
 Retrieves travel time between current location and destination of next calendar event to send via text.
 
 ## Media
-[Influencer Mode] <br>
-Asks for a text input and then posts on both Threads and Mastadon.
-
 [Streaming Lookup](https://github.com/calikasten/siri-shortcuts/blob/main/Streaming%20Lookup.shortcut) <br>
 Utilizes [justwatch.com](justwatch.com) to display where to stream content after entering desired movie or tv show.
 
