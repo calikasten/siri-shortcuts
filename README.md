@@ -18,9 +18,6 @@ Asks for a text input to look up the app in the App Store and then download the 
 [Generate QR Code](https://github.com/calikasten/siri-shortcuts/blob/main/Generate%20QR%20Code.shortcut) <br>
 Asks for a URL input to create a QR code for and copies the QR code to the clipboard.
 
-[Rich Text From HTML](https://github.com/calikasten/siri-shortcuts/blob/main/Rich%20Text%20From%20HTML.shortcut) <br>
-A template for creating rich test from HTML and displaying content via a "Quick Look" action.
-
 [Special Characters](https://github.com/calikasten/siri-shortcuts/blob/main/Special%20Characters.shortcut) <br>
 Opens a list of common special characters and copies the selected special character to the clipboard.
 
