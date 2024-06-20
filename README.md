@@ -15,17 +15,17 @@ Asks for a date input for the countdown and then displays the number of days unt
 [Un-Paywall](https://github.com/calikasten/siri-shortcuts/blob/main/Un-Paywall.shortcut) <br>
 Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
 
-[Update Raspberry Pi] <br>
+[Update Raspberry Pi](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20Raspberry%20Pi.shortcut) <br>
 Checks if there's an update for npm and reboots after installing update (run over SSH).
 
 [View Source Code](https://www.icloud.com/shortcuts/08a196774173491ab39ba3413db4a0dc) <br>
 Displays a preview of the HTML source code of a web page.
 
-[Voice Memo] <br>
+[Voice Memo](https://github.com/calikasten/siri-shortcuts/blob/main/Voice%20Memo.shortcut) <br>
 Saves dictated text as a new Note.
 
 ## Travel
-[Cash vs. Points] <br>
+[Cash vs. Points](https://github.com/calikasten/siri-shortcuts/blob/main/Cash%20vs.%20Points.shortcut) <br>
 Calculator to determine if the better deal is to purchase a flight or hotel room with cash or with points.
 
 [Current Altitude](https://github.com/calikasten/siri-shortcuts/blob/main/Current%20Altitude.shortcut) <br>
@@ -43,7 +43,7 @@ Retrieves travel time between current location and destination of next calendar 
 [Time to Leave](https://github.com/calikasten/siri-shortcuts/blob/main/Time%20To%20Leave.shortcut) <br>
 Identifies the first event at a new location and recommends what time to leave based on the travel time.
 
-[Set New Time Zone Alarm] <br>
+[Set New Time Zone Alarm](https://github.com/calikasten/siri-shortcuts/blob/main/Set%20New%20Time%20Zone%20Alarm.shortcut) <br>
 Asks what new time zone you're in and then sets weekday alarm schedule adjusted for the selected time zone.
 
 ## Media
@@ -68,6 +68,9 @@ Converts Wi-Fi network name and password into a QR code, retrieves external IP a
 
 [New Airtable Record](https://github.com/calikasten/siri-shortcuts/blob/main/New%20Airtable%20Record.shortcut) <br>
 A template to test POST requests to the Airtable API for creating new records in a cloud database with different data types (string, number, boolean, duration, single-select arrays, and multi-select arrays).
+
+[Preview NFC Tag](https://github.com/calikasten/siri-shortcuts/blob/main/Preview%20NFC%20Tag.shortcut) <br>
+Preview the URL of an NFC tag.
 
 [Shortcut List](https://github.com/calikasten/siri-shortcuts/blob/main/Shortcut%20List.shortcut) <br>
 Opens list of shortcuts to select from.
@@ -94,7 +97,7 @@ Wakes Apple TV and opens Fireplace app.
 [Start Coffee] <br>
 Begins boiling water in the smart electric kettle and turns on the SwitchBot that controls the coffee grinder.
 
-[Suggest a Cocktail] <br>
+[Suggest a Cocktail](https://github.com/calikasten/siri-shortcuts/blob/main/Suggest%20a%20Cocktail.shortcut) <br>
 Suggests a random cocktail to make based on dictionary of drinks (manually pre-determined based on available ingredients).
 
 [Ween Watch 2.0](https://github.com/calikasten/siri-shortcuts/blob/main/Ween%20Watch%202.0.shortcut) <br>
