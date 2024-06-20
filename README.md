@@ -15,7 +15,7 @@ Asks for a date input for the countdown and then displays the number of days unt
 [Un-Paywall](https://github.com/calikasten/siri-shortcuts/blob/main/Un-Paywall.shortcut) <br>
 Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
 
-[Update Raspberry Pi](www.google.com) <br>
+[Update Raspberry Pi] <br>
 Checks if there's an update for npm and reboots after installing update (run over SSH).
 
 [View Source Code](https://www.icloud.com/shortcuts/08a196774173491ab39ba3413db4a0dc) <br>
