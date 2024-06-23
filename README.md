@@ -6,9 +6,6 @@ Last Updated 06/20/2024.
 [Add Multiple Reminders](https://github.com/calikasten/siri-shortcuts/blob/main/Add%20Multiple%20Reminders.shortcut) <br>
 Allows for text on each input line to be added as individual list items in the Reminders app.
 
-[Availability by Date] <br>
-Asks for a date input and then displays available time blocks based on when calendar events are not present.
-
 [Date Countdown](https://github.com/calikasten/siri-shortcuts/blob/main/Date%20Countdown.shortcut) <br>
 Asks for a date input for the countdown and then displays the number of days until the date input.
 
