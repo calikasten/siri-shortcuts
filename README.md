@@ -94,9 +94,6 @@ Turns on AirDrop receiving on for "Everyone" for 10 minutes.
 [Fireplace](https://github.com/calikasten/siri-shortcuts/blob/main/Fireplace.shortcut) <br>
 Wakes Apple TV and opens Fireplace app. 
 
-[Start Coffee] <br>
-Begins boiling water in the smart electric kettle and turns on the SwitchBot that controls the coffee grinder.
-
 [Suggest a Cocktail](https://github.com/calikasten/siri-shortcuts/blob/main/Suggest%20a%20Cocktail.shortcut) <br>
 Suggests a random cocktail to make based on dictionary of drinks (manually pre-determined based on available ingredients).
 
