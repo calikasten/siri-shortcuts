@@ -63,9 +63,6 @@ Asks for a URL input to create a QR code for and copies the QR code to the clipb
 [Network Tools](https://github.com/calikasten/siri-shortcuts/blob/main/Network%20Tools.shortcut) <br>
 Converts Wi-Fi network name and password into a QR code, retrieves external IP address, displays physical IP location, and initiates a network speed test utilizing fast.com.
 
-[New Airtable Record](https://github.com/calikasten/siri-shortcuts/blob/main/New%20Airtable%20Record.shortcut) <br>
-A template to test POST requests to the Airtable API for creating new records in a cloud database with different data types (string, number, boolean, duration, single-select arrays, and multi-select arrays).
-
 [Preview NFC Tag](https://github.com/calikasten/siri-shortcuts/blob/main/Preview%20NFC%20Tag.shortcut) <br>
 Preview the URL of an NFC tag.
 
@@ -95,4 +92,4 @@ Wakes Apple TV and opens Fireplace app.
 Suggests a random cocktail to make based on dictionary of drinks (manually pre-determined based on available ingredients).
 
 [Ween Watch 2.0](https://github.com/calikasten/siri-shortcuts/blob/main/Ween%20Watch%202.0.shortcut) <br>
-Log activies for your wiener dog to keep track of their food, business, and exercise. Version 2.0 sends a POST request to the Airtable API to create new record in shared Airtable database.
+ARCHIVED. Log activies for your wiener dog to keep track of their food, business, and exercise. Version 2.0 sends a POST request to the Airtable API to create new record in shared Airtable database.
