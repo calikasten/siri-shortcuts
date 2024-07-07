@@ -1,6 +1,6 @@
 # Siri Shortcuts
 Siri Shortcuts for iOS, iPadOS, and macOS. 
-Last Updated 06/20/2024.
+Last Updated 07/06/2024.
 
 ## Productivity
 [Add Multiple Reminders](https://github.com/calikasten/siri-shortcuts/blob/main/Add%20Multiple%20Reminders.shortcut) <br>
@@ -85,6 +85,9 @@ Toggles the designated VPN on or off.
 Turns on AirDrop receiving on for "Everyone" for 10 minutes.
 
 ## Personal
+[Alarm For Next F1 Race](https://github.com/calikasten/siri-shortcuts/blob/main/Alarm%20For%20Next%20F1%20Race.shortcut) <br>
+Checks for any F1 Grand Prix event in the next day and creates an alarm an hour before the race starts (and deletes any previous Grand Prix alarms). Uses [F1 Calendar](https://f1calendar.com/).
+
 [Fireplace](https://github.com/calikasten/siri-shortcuts/blob/main/Fireplace.shortcut) <br>
 Wakes Apple TV and opens Fireplace app. 
 
