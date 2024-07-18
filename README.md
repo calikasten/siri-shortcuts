@@ -1,6 +1,6 @@
 # Siri Shortcuts
 Siri Shortcuts for iOS, iPadOS, and macOS. 
-Last Updated 07/06/2024.
+Last Updated 07/18/2024.
 
 ## Productivity
 [Add Multiple Reminders](https://github.com/calikasten/siri-shortcuts/blob/main/Add%20Multiple%20Reminders.shortcut) <br>
@@ -89,7 +89,7 @@ Turns on AirDrop receiving on for "Everyone" for 10 minutes.
 Checks for any F1 Grand Prix event in the next day and creates an alarm an hour before the race starts (and deletes any previous Grand Prix alarms); best set up as a recurring personal automation. Uses [F1 Calendar](https://f1calendar.com/).
 
 [Custom Fitness Rings] <br>
-Utilizes custom picked Health metrics to generate a ring-closure chart via [Charty](https://chartyios.app/), similar to the Apple Fitness style rings. Download the custom theme for the ring colors [here](charty://add-theme?name=Apple-Fitness-Rings&colors=00E3DE,B0FF03,FA0F59).
+Utilizes custom picked Health metrics to generate a ring-closure chart via [Charty](https://chartyios.app/), similar to the Apple Fitness style rings. Download the custom theme for the ring colors by installing: charty://add-theme?name=Apple-Fitness-Rings&colors=00E3DE,B0FF03,FA0F59.
 
 [Fireplace](https://github.com/calikasten/siri-shortcuts/blob/main/Fireplace.shortcut) <br>
 Wakes Apple TV and opens Fireplace app. 
