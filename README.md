@@ -94,6 +94,9 @@ Checks for any F1 Grand Prix event in the next day and creates an alarm an hour 
 [Custom Fitness Rings](https://github.com/calikasten/siri-shortcuts/blob/main/Custom%20Fitness%20Rings.shortcut) <br>
 Utilizes custom picked Health metrics to generate a ring-closure chart via [Charty](https://chartyios.app/), similar to the Apple Fitness style rings. Download the custom theme for the ring colors by installing: charty://add-theme?name=Apple-Fitness-Rings&colors=00E3DE,B0FF03,FA0F59.
 
+[Sort Photos to Albums](https://github.com/calikasten/siri-shortcuts/blob/main/Sort%20Photos%20to%20Albums.shortcut) <br>
+Automatically sort any wiener dog photos taken that day into the corresopnding dachshund photo album; best set up as a recurring personal automation.
+
 [Fireplace](https://github.com/calikasten/siri-shortcuts/blob/main/Fireplace.shortcut) <br>
 Wakes Apple TV and opens Fireplace app. 
 
