@@ -98,4 +98,4 @@ Wakes Apple TV and opens Fireplace app.
 Suggests a random cocktail to make based on dictionary of drinks (manually pre-determined based on available ingredients).
 
 [Ween Watch 2.0](https://github.com/calikasten/siri-shortcuts/blob/main/Ween%20Watch%202.0.shortcut) <br>
-ARCHIVED. Log activies for your wiener dog to keep track of their food, business, and exercise. Version 2.0 sends a POST request to the Airtable API to create new record in shared Airtable database.
+[[ARCHIVED]]. Log activies for your wiener dog to keep track of their food, business, and exercise. Version 2.0 sends a POST request to the Airtable API to create new record in shared Airtable database.
