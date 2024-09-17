@@ -1,6 +1,6 @@
 # Siri Shortcuts
 Siri Shortcuts for iOS, iPadOS, and macOS. 
-Last Updated 07/18/2024.
+Last Updated 09/17/2024.
 
 ## Productivity
 [Add Multiple Reminders](https://github.com/calikasten/siri-shortcuts/blob/main/Add%20Multiple%20Reminders.shortcut) <br>
@@ -59,6 +59,9 @@ Uses a low frequency sound to eject any water from the iPhone's speakers. Origin
 
 [Generate QR Code](https://github.com/calikasten/siri-shortcuts/blob/main/Generate%20QR%20Code.shortcut) <br>
 Asks for a URL input to create a QR code for and copies the QR code to the clipboard.
+
+[Get App Icon](https://github.com/calikasten/siri-shortcuts/blob/main/Get%20App%20Icon.shortcut) <br>
+Saves the image of app icon for the specified input.
 
 [Network Tools](https://github.com/calikasten/siri-shortcuts/blob/main/Network%20Tools.shortcut) <br>
 Converts Wi-Fi network name and password into a QR code, retrieves external IP address, displays physical IP location, and initiates a network speed test utilizing fast.com.
