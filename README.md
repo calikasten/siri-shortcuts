@@ -98,7 +98,7 @@ Utilizes custom picked Health metrics to generate a ring-closure chart via [Char
 Wakes Apple TV and opens Fireplace app.
 
 [Log Latest Meal]() <br>
-Log the food eaten for the most recent meal.
+Log a meal to track the types of food and meals eaten every day by sending a POST request to the Airtable API to create a new record.
 
 [Sort Photos to Albums](https://github.com/calikasten/siri-shortcuts/blob/main/Sort%20Photos%20to%20Albums.shortcut) <br>
 Automatically sort any wiener dog photos taken that day into the corresopnding dachshund photo album; best set up as a recurring personal automation.
@@ -107,4 +107,4 @@ Automatically sort any wiener dog photos taken that day into the corresopnding d
 Suggests a random cocktail to make based on dictionary of drinks (manually pre-determined based on available ingredients).
 
 [Ween Watch 2.0](https://github.com/calikasten/siri-shortcuts/blob/main/Ween%20Watch%202.0.shortcut) <br>
-[[ARCHIVED]]. Log activies for your wiener dog to keep track of their food, business, and exercise. Version 2.0 sends a POST request to the Airtable API to create new record in shared Airtable database.
+[[ARCHIVED]]. Log activies for your wiener dog to keep track of their food, business, and exercise. Version 2.0 sends a POST request to the Airtable API to create a new record in shared Airtable database.
