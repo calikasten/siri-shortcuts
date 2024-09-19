@@ -103,7 +103,7 @@ Wakes Apple TV and opens Fireplace app.
 [Log Latest Meal](https://github.com/calikasten/siri-shortcuts/blob/main/Log%20Latest%20Meal.shortcut) <br>
 Log a meal to track the types of food and meals eaten every day by sending a POST request to the Airtable API to create a new record.
 
-[Sort Photos to Albums]() <br>
+[Sort Photos to Albums](https://github.com/calikasten/siri-shortcuts/blob/main/Sort%20Photos%20to%20Albums.shortcut) <br>
 Automatically sort any wiener dog photos taken that day into the corresopnding dachshund photo album; best set up as a recurring personal automation.
 
 [Suggest a Cocktail](https://github.com/calikasten/siri-shortcuts/blob/main/Suggest%20a%20Cocktail.shortcut) <br>
