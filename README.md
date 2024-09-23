@@ -111,4 +111,4 @@ Suggests a random cocktail to make based on dictionary of drinks (manually pre-d
 
 [What To Make For Dinner](https://github.com/calikasten/siri-shortcuts/blob/main/What%20To%20Make%20For%20Dinner.shortcut) <br>
 Suggests potential meals to make based on in stock ingredients from Airtable database of ingredients and recipes.
-![What To Make For Dinner](https://github.com/user-attachments/assets/6117eeff-4036-4d10-8d64-1dc9caef4f3b)
+![What To Make For Dinner](https://github.com/user-attachments/assets/34e88da4-1d16-4a6f-8c39-3a28fa70b2b9)
