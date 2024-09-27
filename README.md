@@ -9,7 +9,7 @@ Allows for text on each input line to be added as individual list items in the R
 [Date Countdown](https://github.com/calikasten/siri-shortcuts/blob/main/Date%20Countdown.shortcut) <br>
 Asks for a date input for the countdown and then displays the number of days until the date input.
 
-[Remaining Charging Time]() <br>
+[Remaining Charging Time](https://github.com/calikasten/siri-shortcuts/blob/main/Remaining%20Charging%20Time.shortcut) <br>
 Gets current battery level and calculates remaining time required to charge to a full battery.
 
 [Un-Paywall](https://github.com/calikasten/siri-shortcuts/blob/main/Un-Paywall.shortcut) <br>
