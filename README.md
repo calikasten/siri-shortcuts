@@ -1,6 +1,6 @@
 # Siri Shortcuts
 Siri Shortcuts for iOS, iPadOS, and macOS. 
-Last Updated 09/22/2024.
+Last Updated 09/27/2024.
 
 ## Productivity
 [Add Multiple Reminders](https://github.com/calikasten/siri-shortcuts/blob/main/Add%20Multiple%20Reminders.shortcut) <br>
@@ -8,6 +8,9 @@ Allows for text on each input line to be added as individual list items in the R
 
 [Date Countdown](https://github.com/calikasten/siri-shortcuts/blob/main/Date%20Countdown.shortcut) <br>
 Asks for a date input for the countdown and then displays the number of days until the date input.
+
+[Remaining Charging Time]() <br>
+Gets current battery level and calculates remaining time required to charge to a full battery.
 
 [Un-Paywall](https://github.com/calikasten/siri-shortcuts/blob/main/Un-Paywall.shortcut) <br>
 Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
