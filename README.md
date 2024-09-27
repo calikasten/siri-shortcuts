@@ -12,7 +12,10 @@ Asks for a date input for the countdown and then displays the number of days unt
 [Remaining Charging Time](https://github.com/calikasten/siri-shortcuts/blob/main/Remaining%20Charging%20Time.shortcut) <br>
 Gets current battery level and calculates remaining time required to charge to a full battery.
 
-[Un-Paywall](https://github.com/calikasten/siri-shortcuts/blob/main/Un-Paywall.shortcut) <br>
+[Paywall Bypass Via Quick Look]() <br>
+Bypasses internet content paywalls by taking URL contents and displaying via Quick Look. Oriignal author [robric18](https://routinehub.co/user/robric18).
+
+[Paywall Bypass Via Base64 Encode]() <br>
 Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
 
 [Update Raspberry Pi](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20Raspberry%20Pi.shortcut) <br>
