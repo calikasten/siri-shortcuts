@@ -60,7 +60,7 @@ Utilizes custom picked Health metrics to generate a ring-closure chart via [Char
 [Log Latest Meal](https://github.com/calikasten/siri-shortcuts/blob/main/Log%20Latest%20Meal.shortcut) <br>
 Log a meal to track the types of food and meals eaten every day by sending a POST request to the Airtable API to create a new record.
 
-[Rental Investment Calculator]() <br>
+[Rental Investment Calculator](https://github.com/calikasten/siri-shortcuts/blob/main/Rental%20Investment%20Calculator.shortcut) <br>
 Given a series of inputs about a property, automatically calculates some assumed values and returns monthly cash flow and annual cash on cash ROI. Original author [reydn](https://routinehub.co/user/reydn).
 
 [Sort Photos to Albums](https://github.com/calikasten/siri-shortcuts/blob/main/Sort%20Photos%20to%20Albums.shortcut) <br>
