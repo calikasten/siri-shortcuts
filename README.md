@@ -1,6 +1,6 @@
 # Siri Shortcuts
 Siri Shortcuts for iOS, iPadOS, and macOS. 
-Last Updated 09/27/2024.
+Last Updated 09/28/2024.
 
 ## Productivity
 [Add Multiple Reminders](https://github.com/calikasten/siri-shortcuts/blob/main/Add%20Multiple%20Reminders.shortcut) <br>
@@ -17,6 +17,9 @@ Bypasses internet content paywalls by taking URL contents and displaying via Qui
 
 [Paywall Bypass Via Base64 Encode](https://github.com/calikasten/siri-shortcuts/blob/main/Paywall%20Bypass%20Via%20Base64%20Encode.shortcut) <br>
 Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
+
+[Rejected Watermark]() <br>
+Overlay "Rejected" watermark stamp on selected file. Original author [entee](https://routinehub.co/user/entee).
 
 [Update Raspberry Pi](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20Raspberry%20Pi.shortcut) <br>
 Checks if there's an update for npm and reboots after installing update (run over SSH).
