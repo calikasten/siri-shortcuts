@@ -15,7 +15,7 @@ Gets latitude and longitude for current location and copies to the clipboard.
 [Flight Departure](https://github.com/calikasten/siri-shortcuts/blob/main/Flight%20Departure.shortcut) <br>
 Detects flight number from calendar and pre-populates text announcing departure (iMessage automatically supports flight tracking details based on flight number).
 
-[Map Today's Locations]() <br>
+[Map Today's Locations](https://github.com/calikasten/siri-shortcuts/blob/main/Map%20Today's%20Locations.shortcut) <br>
 Extracts locations from calendar events and the concatenates the Google Maps URL to display map of locations. Original author [HirsuteJim](https://routinehub.co/user/HirsuteJim).
 
 [Running Late](https://github.com/calikasten/siri-shortcuts/blob/main/Running%20Late.shortcut) <br>
