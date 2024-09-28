@@ -2,34 +2,6 @@
 Siri Shortcuts for iOS, iPadOS, and macOS. 
 Last Updated 09/28/2024.
 
-## Productivity
-[Add Multiple Reminders](https://github.com/calikasten/siri-shortcuts/blob/main/Add%20Multiple%20Reminders.shortcut) <br>
-Allows for text on each input line to be added as individual list items in the Reminders app.
-
-[Date Countdown](https://github.com/calikasten/siri-shortcuts/blob/main/Date%20Countdown.shortcut) <br>
-Asks for a date input for the countdown and then displays the number of days until the date input.
-
-[Remaining Charging Time](https://github.com/calikasten/siri-shortcuts/blob/main/Remaining%20Charging%20Time.shortcut) <br>
-Gets current battery level and calculates remaining time required to charge to a full battery.
-
-[Paywall Bypass Via Quick Look](https://github.com/calikasten/siri-shortcuts/blob/main/Paywall%20Bypass%20Via%20Quick%20Look.shortcut) <br>
-Bypasses internet content paywalls by taking URL contents and displaying via Quick Look. Original author [robric18](https://routinehub.co/user/robric18).
-
-[Paywall Bypass Via Base64 Encode](https://github.com/calikasten/siri-shortcuts/blob/main/Paywall%20Bypass%20Via%20Base64%20Encode.shortcut) <br>
-Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
-
-[Rejected Watermark](https://github.com/calikasten/siri-shortcuts/blob/main/Rejected%20Watermark.shortcut) <br>
-Overlay "Rejected" watermark stamp on selected file. Original author [entee](https://routinehub.co/user/entee).
-
-[Update Raspberry Pi](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20Raspberry%20Pi.shortcut) <br>
-Checks if there's an update for npm and reboots after installing update (run over SSH).
-
-[View Source Code](https://www.icloud.com/shortcuts/08a196774173491ab39ba3413db4a0dc) <br>
-Displays a preview of the HTML source code of a web page.
-
-[Voice Memo](https://github.com/calikasten/siri-shortcuts/blob/main/Voice%20Memo.shortcut) <br>
-Saves dictated text as a new Note.
-
 ## Travel
 [Cash vs. Points](https://github.com/calikasten/siri-shortcuts/blob/main/Cash%20vs.%20Points.shortcut) <br>
 Calculator to determine if the better deal is to purchase a flight or hotel room with cash or with points.
@@ -55,6 +27,39 @@ Asks what new time zone you're in and then sets weekday alarm schedule adjusted 
 ## Media
 [Streaming Lookup](https://github.com/calikasten/siri-shortcuts/blob/main/Streaming%20Lookup.shortcut) <br>
 Utilizes [justwatch.com](justwatch.com) to display where to stream content after entering desired movie or tv show.
+
+## Productivity
+[Add Multiple Reminders](https://github.com/calikasten/siri-shortcuts/blob/main/Add%20Multiple%20Reminders.shortcut) <br>
+Allows for text on each input line to be added as individual list items in the Reminders app.
+
+[Date Countdown](https://github.com/calikasten/siri-shortcuts/blob/main/Date%20Countdown.shortcut) <br>
+Asks for a date input for the countdown and then displays the number of days until the date input.
+
+[Remaining Charging Time](https://github.com/calikasten/siri-shortcuts/blob/main/Remaining%20Charging%20Time.shortcut) <br>
+Gets current battery level and calculates remaining time required to charge to a full battery.
+
+[Paywall Bypass Via Quick Look](https://github.com/calikasten/siri-shortcuts/blob/main/Paywall%20Bypass%20Via%20Quick%20Look.shortcut) <br>
+Bypasses internet content paywalls by taking URL contents and displaying via Quick Look. Original author [robric18](https://routinehub.co/user/robric18).
+
+[Paywall Bypass Via Base64 Encode](https://github.com/calikasten/siri-shortcuts/blob/main/Paywall%20Bypass%20Via%20Base64%20Encode.shortcut) <br>
+Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
+
+[Voice Memo](https://github.com/calikasten/siri-shortcuts/blob/main/Voice%20Memo.shortcut) <br>
+Saves dictated text as a new Note.
+
+## Work
+[Join Teams Meeting]() <br>
+Displays a list of meetings for the day, extracts the meeting ID, and opens the URL to join the selected meeting. Original author [arnih](https://routinehub.co/user/arnih).
+
+[Rejected Watermark](https://github.com/calikasten/siri-shortcuts/blob/main/Rejected%20Watermark.shortcut) <br>
+Overlay "Rejected" watermark stamp on selected file. Original author [entee](https://routinehub.co/user/entee).
+
+[Update Raspberry Pi](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20Raspberry%20Pi.shortcut) <br>
+Checks if there's an update for npm and reboots after installing update (run over SSH).
+
+[View Source Code](https://www.icloud.com/shortcuts/08a196774173491ab39ba3413db4a0dc) <br>
+Displays a preview of the HTML source code of a web page.
+
 
 ## Utilities
 [Backup to iCloud](https://github.com/calikasten/siri-shortcuts/blob/main/Backup%20To%20iCloud.shortcut) <br>
