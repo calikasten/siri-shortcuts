@@ -28,7 +28,7 @@ Asks what new time zone you're in and then sets weekday alarm schedule adjusted 
 Identifies the first event at a new location and recommends what time to leave based on the travel time.
 
 [Uber/Lyft Price Comparison](https://github.com/calikasten/siri-shortcuts/blob/main/Uber%3ALyft%20Price%20Compare.shortcut) <br>
-Automatically opens both Uber and Lyft to compare prices for given pick up and drop off inputs.
+Automatically opens both Uber and Lyft to compare prices for given pick up and drop off inputs. Original author [u/mcmackinr11](https://www.reddit.com/user/mcmackinr11/).
 
 ## Media
 [Streaming Lookup](https://github.com/calikasten/siri-shortcuts/blob/main/Streaming%20Lookup.shortcut) <br>
