@@ -21,11 +21,14 @@ Extracts locations from calendar events and the concatenates the Google Maps URL
 [Running Late](https://github.com/calikasten/siri-shortcuts/blob/main/Running%20Late.shortcut) <br>
 Retrieves travel time between current location and destination of next calendar event to send via text.
 
+[Set New Time Zone Alarm](https://github.com/calikasten/siri-shortcuts/blob/main/Set%20New%20Time%20Zone%20Alarm.shortcut) <br>
+Asks what new time zone you're in and then sets weekday alarm schedule adjusted for the selected time zone.
+
 [Time to Leave](https://github.com/calikasten/siri-shortcuts/blob/main/Time%20To%20Leave.shortcut) <br>
 Identifies the first event at a new location and recommends what time to leave based on the travel time.
 
-[Set New Time Zone Alarm](https://github.com/calikasten/siri-shortcuts/blob/main/Set%20New%20Time%20Zone%20Alarm.shortcut) <br>
-Asks what new time zone you're in and then sets weekday alarm schedule adjusted for the selected time zone.
+[Uber/Lyft Price Comparison](https://github.com/calikasten/siri-shortcuts/blob/main/Uber%3ALyft%20Price%20Compare.shortcut) <br>
+Automatically opens both Uber and Lyft to compare prices for given pick up and drop off inputs.
 
 ## Media
 [Streaming Lookup](https://github.com/calikasten/siri-shortcuts/blob/main/Streaming%20Lookup.shortcut) <br>
