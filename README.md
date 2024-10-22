@@ -1,6 +1,6 @@
 # Siri Shortcuts
 Siri Shortcuts for iOS, iPadOS, and macOS. 
-Last Updated 10/20/2024.
+Last Updated 10/22/2024.
 
 ## Travel
 [Cash vs. Points](https://github.com/calikasten/siri-shortcuts/blob/main/Cash%20vs.%20Points.shortcut) <br>
@@ -49,9 +49,6 @@ Bypasses internet content paywalls by taking URL contents and displaying via Qui
 
 [Paywall Bypass Via Base64 Encode](https://github.com/calikasten/siri-shortcuts/blob/main/Paywall%20Bypass%20Via%20Base64%20Encode.shortcut) <br>
 Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
-
-[Voice Memo](https://github.com/calikasten/siri-shortcuts/blob/main/Voice%20Memo.shortcut) <br>
-Saves dictated text as a new Note.
 
 ## Personal
 [Alarm For Next F1 Race](https://github.com/calikasten/siri-shortcuts/blob/main/Alarm%20For%20Next%20F1%20Race.shortcut) <br>
