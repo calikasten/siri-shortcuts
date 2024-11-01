@@ -2,54 +2,6 @@
 Siri Shortcuts for iOS, iPadOS, and macOS. 
 Last Updated 11/01/2024.
 
-## Travel
-[Cash vs. Points] <br>
-Calculator to determine if the better deal is to purchase a flight or hotel room with cash or with points.
-
-[Current Altitude](https://github.com/calikasten/siri-shortcuts/blob/main/Current%20Altitude.shortcut) <br>
-Gets altitude from current location and displays the number of feet above sea level.
-
-[GPS Coordinates](https://github.com/calikasten/siri-shortcuts/blob/main/GPS%20Coordinates.shortcut) <br>
-Gets latitude and longitude for current location and copies to the clipboard.
-
-[Flight Departure](https://github.com/calikasten/siri-shortcuts/blob/main/Flight%20Departure.shortcut) <br>
-Detects flight number from calendar and pre-populates text announcing departure (iMessage automatically supports flight tracking details based on flight number).
-
-[Map Today's Locations] <br>
-Extracts locations from calendar events and the concatenates the Google Maps URL to display map of locations. Original author [HirsuteJim](https://routinehub.co/user/HirsuteJim).
-
-[Running Late] <br>
-Retrieves travel time between current location and destination of next calendar event to send via text.
-
-[Set New Time Zone Alarm] <br>
-Asks what new time zone you're in and then sets weekday alarm schedule adjusted for the selected time zone.
-
-[Time to Leave] <br>
-Identifies the first event at a new location and recommends what time to leave based on the travel time.
-
-[Uber vs. Lyft Price Comparison] <br>
-Automatically opens both Uber and Lyft to compare prices for given pick up and drop off inputs. Original author [u/mcmackinr11](https://www.reddit.com/user/mcmackinr11/).
-
-## Media
-[Streaming Lookup](https://github.com/calikasten/siri-shortcuts/blob/main/Streaming%20Lookup.shortcut) <br>
-Utilizes [justwatch.com](justwatch.com) to display where to stream content after entering desired movie or tv show.
-
-## Productivity
-[Date Countdown](https://github.com/calikasten/siri-shortcuts/blob/main/Date%20Countdown.shortcut) <br>
-Asks for a date input for the countdown and then displays the number of days until the date input.
-
-[Paywall Bypass Via Quick Look] <br>
-Bypasses internet content paywalls by taking URL contents and displaying via Quick Look. Original author [robric18](https://routinehub.co/user/robric18).
-
-[Paywall Bypass Via Base64 Encode] <br>
-Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
-
-[Remaining Charging Time](https://github.com/calikasten/siri-shortcuts/blob/main/Remaining%20Charging%20Time.shortcut) <br>
-Gets current battery level and calculates remaining time required to charge to a full battery.
-
-[Remind Me Tomorrow](https://github.com/calikasten/siri-shortcuts/blob/main/Remind%20Me%20Tomorrow.shortcut) <br>
-Allows for text on each input line to be added as individual list items in the Reminders app with a due date of 7:00am.
-
 ## Personal
 [Alarm For Next F1 Race](https://github.com/calikasten/siri-shortcuts/blob/main/Alarm%20For%20Next%20F1%20Race.shortcut) <br>
 Checks for any F1 Grand Prix event in the next day and creates an alarm an hour before the race starts (and deletes any previous Grand Prix alarms); best set up as a recurring personal automation. Uses [F1 Calendar](https://f1calendar.com/).
@@ -80,11 +32,59 @@ Suggests potential meals to make based on in stock ingredients from Airtable dat
 [Rejected Watermark](https://github.com/calikasten/siri-shortcuts/blob/main/Rejected%20Watermark.shortcut) <br>
 Overlay "Rejected" watermark stamp on selected file. Original author [entee](https://routinehub.co/user/entee).
 
-[Update Raspberry Pi] <br>
+[Update Raspberry Pi](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20Raspberry%20Pi.shortcut) <br>
 Checks if there's an update for npm and reboots after installing update (run over SSH).
 
 [View Source Code](https://www.icloud.com/shortcuts/08a196774173491ab39ba3413db4a0dc) <br>
 Displays a preview of the HTML source code of a web page.
+
+## Travel
+[Cash vs. Points] <br>
+Calculator to determine if the better deal is to purchase a flight or hotel room with cash or with points.
+
+[Current Altitude](https://github.com/calikasten/siri-shortcuts/blob/main/Current%20Altitude.shortcut) <br>
+Gets altitude from current location and displays the number of feet above sea level.
+
+[GPS Coordinates](https://github.com/calikasten/siri-shortcuts/blob/main/GPS%20Coordinates.shortcut) <br>
+Gets latitude and longitude for current location and copies to the clipboard.
+
+[Flight Departure](https://github.com/calikasten/siri-shortcuts/blob/main/Flight%20Departure.shortcut) <br>
+Detects flight number from calendar and pre-populates text announcing departure (iMessage automatically supports flight tracking details based on flight number).
+
+[Map Today's Locations] <br>
+Extracts locations from calendar events and the concatenates the Google Maps URL to display map of locations. Original author [HirsuteJim](https://routinehub.co/user/HirsuteJim).
+
+[Running Late](https://github.com/calikasten/siri-shortcuts/blob/main/Running%20Late.shortcut) <br>
+Retrieves travel time between current location and destination of next calendar event to send via text.
+
+[Set New Time Zone Alarm] <br>
+Asks what new time zone you're in and then sets weekday alarm schedule adjusted for the selected time zone.
+
+[Time to Leave](https://github.com/calikasten/siri-shortcuts/blob/main/Time%20To%20Leave.shortcut) <br>
+Identifies the first event at a new location and recommends what time to leave based on the travel time.
+
+[Uber vs. Lyft Price Comparison] <br>
+Automatically opens both Uber and Lyft to compare prices for given pick up and drop off inputs. Original author [u/mcmackinr11](https://www.reddit.com/user/mcmackinr11/).
+
+## Media
+[Streaming Lookup](https://github.com/calikasten/siri-shortcuts/blob/main/Streaming%20Lookup.shortcut) <br>
+Utilizes [justwatch.com](justwatch.com) to display where to stream content after entering desired movie or tv show.
+
+## Productivity
+[Date Countdown](https://github.com/calikasten/siri-shortcuts/blob/main/Date%20Countdown.shortcut) <br>
+Asks for a date input for the countdown and then displays the number of days until the date input.
+
+[Paywall Bypass Via Quick Look] <br>
+Bypasses internet content paywalls by taking URL contents and displaying via Quick Look. Original author [robric18](https://routinehub.co/user/robric18).
+
+[Paywall Bypass Via Base64 Encode] <br>
+Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
+
+[Remaining Charging Time](https://github.com/calikasten/siri-shortcuts/blob/main/Remaining%20Charging%20Time.shortcut) <br>
+Gets current battery level and calculates remaining time required to charge to a full battery.
+
+[Remind Me Tomorrow](https://github.com/calikasten/siri-shortcuts/blob/main/Remind%20Me%20Tomorrow.shortcut) <br>
+Allows for text on each input line to be added as individual list items in the Reminders app with a due date of 7:00am.
 
 ## Utilities
 [Backup to iCloud](https://github.com/calikasten/siri-shortcuts/blob/main/Backup%20To%20iCloud.shortcut) <br>
