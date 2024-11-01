@@ -47,7 +47,7 @@ Bypasses internet content paywalls by taking URL contents and converting to base
 [Remaining Charging Time](https://github.com/calikasten/siri-shortcuts/blob/main/Remaining%20Charging%20Time.shortcut) <br>
 Gets current battery level and calculates remaining time required to charge to a full battery.
 
-[Remind Me Tomorrow]() <br>
+[Remind Me Tomorrow](https://github.com/calikasten/siri-shortcuts/blob/main/Remind%20Me%20Tomorrow.shortcut) <br>
 Allows for text on each input line to be added as individual list items in the Reminders app with a due date of 7:00am.
 
 ## Personal
