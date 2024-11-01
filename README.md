@@ -77,9 +77,6 @@ Suggests potential meals to make based on in stock ingredients from Airtable dat
 ![What To Make For Dinner](https://github.com/user-attachments/assets/34e88da4-1d16-4a6f-8c39-3a28fa70b2b9)
 
 ## Work
-[Join Teams Meeting](https://github.com/calikasten/siri-shortcuts/blob/main/Join%20Teams%20Meeting.shortcut) <br>
-Displays a list of meetings for the day, extracts the meeting ID, and opens the URL to join the selected meeting. Original author [arnih](https://routinehub.co/user/arnih).
-
 [Rejected Watermark](https://github.com/calikasten/siri-shortcuts/blob/main/Rejected%20Watermark.shortcut) <br>
 Overlay "Rejected" watermark stamp on selected file. Original author [entee](https://routinehub.co/user/entee).
 
