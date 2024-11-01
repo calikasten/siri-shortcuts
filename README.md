@@ -3,7 +3,7 @@ Siri Shortcuts for iOS, iPadOS, and macOS.
 Last Updated 11/01/2024.
 
 ## Travel
-[Cash vs. Points]() <br>
+[Cash vs. Points] <br>
 Calculator to determine if the better deal is to purchase a flight or hotel room with cash or with points.
 
 [Current Altitude](https://github.com/calikasten/siri-shortcuts/blob/main/Current%20Altitude.shortcut) <br>
@@ -15,19 +15,19 @@ Gets latitude and longitude for current location and copies to the clipboard.
 [Flight Departure](https://github.com/calikasten/siri-shortcuts/blob/main/Flight%20Departure.shortcut) <br>
 Detects flight number from calendar and pre-populates text announcing departure (iMessage automatically supports flight tracking details based on flight number).
 
-[Map Today's Locations]() <br>
+[Map Today's Locations] <br>
 Extracts locations from calendar events and the concatenates the Google Maps URL to display map of locations. Original author [HirsuteJim](https://routinehub.co/user/HirsuteJim).
 
-[Running Late]() <br>
+[Running Late] <br>
 Retrieves travel time between current location and destination of next calendar event to send via text.
 
-[Set New Time Zone Alarm]() <br>
+[Set New Time Zone Alarm] <br>
 Asks what new time zone you're in and then sets weekday alarm schedule adjusted for the selected time zone.
 
-[Time to Leave]() <br>
+[Time to Leave] <br>
 Identifies the first event at a new location and recommends what time to leave based on the travel time.
 
-[Uber vs. Lyft Price Comparison]() <br>
+[Uber vs. Lyft Price Comparison] <br>
 Automatically opens both Uber and Lyft to compare prices for given pick up and drop off inputs. Original author [u/mcmackinr11](https://www.reddit.com/user/mcmackinr11/).
 
 ## Media
@@ -44,35 +44,35 @@ Asks for a date input for the countdown and then displays the number of days unt
 [Remaining Charging Time](https://github.com/calikasten/siri-shortcuts/blob/main/Remaining%20Charging%20Time.shortcut) <br>
 Gets current battery level and calculates remaining time required to charge to a full battery.
 
-[Paywall Bypass Via Quick Look]() <br>
+[Paywall Bypass Via Quick Look] <br>
 Bypasses internet content paywalls by taking URL contents and displaying via Quick Look. Original author [robric18](https://routinehub.co/user/robric18).
 
-[Paywall Bypass Via Base64 Encode]() <br>
+[Paywall Bypass Via Base64 Encode] <br>
 Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
 
 ## Personal
 [Alarm For Next F1 Race](https://github.com/calikasten/siri-shortcuts/blob/main/Alarm%20For%20Next%20F1%20Race.shortcut) <br>
 Checks for any F1 Grand Prix event in the next day and creates an alarm an hour before the race starts (and deletes any previous Grand Prix alarms); best set up as a recurring personal automation. Uses [F1 Calendar](https://f1calendar.com/).
 
-[Custom Fitness Rings]() <br>
+[Custom Fitness Rings] <br>
 Utilizes custom picked Health metrics to generate a ring-closure chart via [Charty](https://chartyios.app/), similar to the Apple Fitness style rings. Download the custom theme for the ring colors by installing: charty://add-theme?name=Apple-Fitness-Rings&colors=00E3DE,B0FF03,FA0F59.
 
-[Log Latest Meal]() <br>
+[Log Latest Meal] <br>
 Log a meal to track the types of food and meals eaten every day by sending a POST request to the Airtable API to create a new record.
 
-[Rental Investment Calculator]() <br>
+[Rental Investment Calculator] <br>
 Given a series of inputs about a property, automatically calculates some assumed values and returns monthly cash flow and annual cash on cash ROI. Original author [reydn](https://routinehub.co/user/reydn).
 
-[Sort Photos to Albums]() <br>
+[Sort Photos to Albums] <br>
 Automatically sort any wiener dog photos taken that day into the corresopnding dachshund photo album; best set up as a recurring personal automation.
 
-[Suggest a Cocktail]() <br>
+[Suggest a Cocktail] <br>
 Suggests a random cocktail to make based on dictionary of drinks (manually pre-determined based on available ingredients).
 
 [Ween Watch 2.0](https://github.com/calikasten/siri-shortcuts/blob/main/Ween%20Watch%202.0.shortcut) <br>
 [[ARCHIVED]]. Log activies for your wiener dog to keep track of their food, business, and exercise. Version 2.0 sends a POST request to the Airtable API to create a new record in shared Airtable database.
 
-[What To Make For Dinner]() <br>
+[What To Make For Dinner] <br>
 Suggests potential meals to make based on in stock ingredients from Airtable database of ingredients and recipes.
 ![What To Make For Dinner](https://github.com/user-attachments/assets/34e88da4-1d16-4a6f-8c39-3a28fa70b2b9)
 
@@ -80,7 +80,7 @@ Suggests potential meals to make based on in stock ingredients from Airtable dat
 [Rejected Watermark](https://github.com/calikasten/siri-shortcuts/blob/main/Rejected%20Watermark.shortcut) <br>
 Overlay "Rejected" watermark stamp on selected file. Original author [entee](https://routinehub.co/user/entee).
 
-[Update Raspberry Pi]() <br>
+[Update Raspberry Pi] <br>
 Checks if there's an update for npm and reboots after installing update (run over SSH).
 
 [View Source Code](https://www.icloud.com/shortcuts/08a196774173491ab39ba3413db4a0dc) <br>
@@ -102,7 +102,7 @@ Saves the image of app icon for the specified input.
 [Network Tools](https://github.com/calikasten/siri-shortcuts/blob/main/Network%20Tools.shortcut) <br>
 Converts Wi-Fi network name and password into a QR code, retrieves external IP address, displays physical IP location, and initiates a network speed test utilizing fast.com.
 
-[Preview NFC Tag]() <br>
+[Preview NFC Tag] <br>
 Preview the URL of an NFC tag.
 
 [Special Characters](https://github.com/calikasten/siri-shortcuts/blob/main/Special%20Characters.shortcut) <br>
