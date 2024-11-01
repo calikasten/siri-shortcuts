@@ -29,7 +29,7 @@ Suggests potential meals to make based on in stock ingredients from Airtable dat
 ![What To Make For Dinner](https://github.com/user-attachments/assets/34e88da4-1d16-4a6f-8c39-3a28fa70b2b9)
 
 ## Work
-[Rejected Watermark](https://github.com/calikasten/siri-shortcuts/blob/main/Rejected%20Watermark.shortcut) <br>
+[Rejected Watermark] <br>
 Overlay "Rejected" watermark stamp on selected file. Original author [entee](https://routinehub.co/user/entee).
 
 [Update Raspberry Pi](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20Raspberry%20Pi.shortcut) <br>
