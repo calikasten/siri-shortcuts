@@ -6,13 +6,13 @@ Last Updated 11/01/2024.
 [Alarm For Next F1 Race](https://github.com/calikasten/siri-shortcuts/blob/main/Alarm%20For%20Next%20F1%20Race.shortcut) <br>
 Checks for any F1 Grand Prix event in the next day and creates an alarm an hour before the race starts (and deletes any previous Grand Prix alarms); best set up as a recurring personal automation. Uses [F1 Calendar](https://f1calendar.com/).
 
-[Custom Fitness Rings] <br>
+[Custom Fitness Rings](https://github.com/calikasten/siri-shortcuts/blob/main/Custom%20Fitness%20Rings.shortcut) <br>
 Utilizes custom picked Health metrics to generate a ring-closure chart via [Charty](https://chartyios.app/), similar to the Apple Fitness style rings. Download the custom theme for the ring colors by installing: charty://add-theme?name=Apple-Fitness-Rings&colors=00E3DE,B0FF03,FA0F59.
 
 [Log Latest Meal] <br>
 Log a meal to track the types of food and meals eaten every day by sending a POST request to the Airtable API to create a new record.
 
-[Rental Investment Calculator] <br>
+[Rental Investment Calculator](https://github.com/calikasten/siri-shortcuts/blob/main/Rental%20Investment%20Calculator.shortcut) <br>
 Given a series of inputs about a property, automatically calculates some assumed values and returns monthly cash flow and annual cash on cash ROI. Original author [reydn](https://routinehub.co/user/reydn).
 
 [Sort Photos to Albums] <br>
@@ -96,7 +96,7 @@ Uses a low frequency sound to eject any water from the iPhone's speakers. Origin
 [Generate QR Code](https://github.com/calikasten/siri-shortcuts/blob/main/Generate%20QR%20Code.shortcut) <br>
 Asks for a URL input to create a QR code for and copies the QR code to the clipboard.
 
-[Get App Icon]() <br>
+[Get App Icon](https://github.com/calikasten/siri-shortcuts/blob/main/Get%20App%20Icon.shortcut) <br>
 Saves the image of app icon for the specified input.
 
 [Network Tools](https://github.com/calikasten/siri-shortcuts/blob/main/Network%20Tools.shortcut) <br>
@@ -111,11 +111,11 @@ Opens a list of common special characters and copies the selected special charac
 [Timestamp Formats](https://github.com/calikasten/siri-shortcuts/blob/main/Timestamp%20Formats.shortcut) <br>
 Opens a list of common timestamp formats based on a provided date/time input and copies the selected format to the clipboard.
 
+[Turn On AirDrop](https://github.com/calikasten/siri-shortcuts/blob/main/Turn%20On%20AirDrop.shortcut) <br>
+Turns on AirDrop receiving on for "Everyone" for 10 minutes.
+
 [Toggle White Noise](https://github.com/calikasten/siri-shortcuts/blob/main/Toggle%20White%20Noise.shortcut) <br>
 Toggles white noise on/off using iPhone/iPad background sounds.
 
 [Toggle VPN](https://github.com/calikasten/siri-shortcuts/blob/main/Toggle%20VPN.shortcut) <br>
 Toggles the designated VPN on or off. 
-
-[Turn On AirDrop](https://github.com/calikasten/siri-shortcuts/blob/main/Turn%20On%20AirDrop.shortcut) <br>
-Turns on AirDrop receiving on for "Everyone" for 10 minutes.
