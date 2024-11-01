@@ -15,7 +15,7 @@ Log a meal to track the types of food and meals eaten every day by sending a POS
 [Rental Investment Calculator](https://github.com/calikasten/siri-shortcuts/blob/main/Rental%20Investment%20Calculator.shortcut) <br>
 Given a series of inputs about a property, automatically calculates some assumed values and returns monthly cash flow and annual cash on cash ROI. Original author [reydn](https://routinehub.co/user/reydn).
 
-[Sort Photos to Albums] <br>
+[Sort Photos to Albums](https://github.com/calikasten/siri-shortcuts/blob/main/Sort%20Photos%20to%20Albums.shortcut) <br>
 Automatically sort any wiener dog photos taken that day into the corresopnding dachshund photo album; best set up as a recurring personal automation.
 
 [Suggest a Cocktail] <br>
@@ -45,6 +45,9 @@ Calculator to determine if the better deal is to purchase a flight or hotel room
 [Current Altitude](https://github.com/calikasten/siri-shortcuts/blob/main/Current%20Altitude.shortcut) <br>
 Gets altitude from current location and displays the number of feet above sea level.
 
+[Directions to Next Event](https://github.com/calikasten/siri-shortcuts/blob/main/Directions%20To%20Next%20Location.shortcut) <br>
+Automatically opens directions to the next calendar event, or directions home if no event. 
+
 [GPS Coordinates](https://github.com/calikasten/siri-shortcuts/blob/main/GPS%20Coordinates.shortcut) <br>
 Gets latitude and longitude for current location and copies to the clipboard.
 
@@ -57,7 +60,7 @@ Extracts locations from calendar events and the concatenates the Google Maps URL
 [Running Late](https://github.com/calikasten/siri-shortcuts/blob/main/Running%20Late.shortcut) <br>
 Retrieves travel time between current location and destination of next calendar event to send via text.
 
-[Set New Time Zone Alarm] <br>
+[Set New Time Zone Alarm](https://github.com/calikasten/siri-shortcuts/blob/main/Set%20New%20Time%20Zone%20Alarm.shortcut) <br>
 Asks what new time zone you're in and then sets weekday alarm schedule adjusted for the selected time zone.
 
 [Time to Leave](https://github.com/calikasten/siri-shortcuts/blob/main/Time%20To%20Leave.shortcut) <br>
@@ -102,7 +105,7 @@ Saves the image of app icon for the specified input.
 [Network Tools](https://github.com/calikasten/siri-shortcuts/blob/main/Network%20Tools.shortcut) <br>
 Converts Wi-Fi network name and password into a QR code, retrieves external IP address, displays physical IP location, and initiates a network speed test utilizing fast.com.
 
-[Preview NFC Tag] <br>
+[Preview NFC Tag](https://github.com/calikasten/siri-shortcuts/blob/main/Preview%20NFC%20Tag.shortcut) <br>
 Preview the URL of an NFC tag.
 
 [Special Characters](https://github.com/calikasten/siri-shortcuts/blob/main/Special%20Characters.shortcut) <br>
