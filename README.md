@@ -1,6 +1,6 @@
 # Siri Shortcuts
 Siri Shortcuts for iOS, iPadOS, and macOS. 
-Last Updated 10/22/2024.
+Last Updated 11/01/2024.
 
 ## Travel
 [Cash vs. Points](https://github.com/calikasten/siri-shortcuts/blob/main/Cash%20vs.%20Points.shortcut) <br>
