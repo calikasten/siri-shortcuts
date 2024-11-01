@@ -39,7 +39,7 @@ Checks if there's an update for npm and reboots after installing update (run ove
 Displays a preview of the HTML source code of a web page.
 
 ## Travel
-[Cash vs. Points] <br>
+[Cash vs. Points](https://github.com/calikasten/siri-shortcuts/blob/main/Cash%20vs.%20Points.shortcut) <br>
 Calculator to determine if the better deal is to purchase a flight or hotel room with cash or with points.
 
 [Current Altitude](https://github.com/calikasten/siri-shortcuts/blob/main/Current%20Altitude.shortcut) <br>
@@ -51,7 +51,7 @@ Gets latitude and longitude for current location and copies to the clipboard.
 [Flight Departure](https://github.com/calikasten/siri-shortcuts/blob/main/Flight%20Departure.shortcut) <br>
 Detects flight number from calendar and pre-populates text announcing departure (iMessage automatically supports flight tracking details based on flight number).
 
-[Map Today's Locations] <br>
+[Map Today's Locations](https://github.com/calikasten/siri-shortcuts/blob/main/Map%20Today's%20Locations.shortcut) <br>
 Extracts locations from calendar events and the concatenates the Google Maps URL to display map of locations. Original author [HirsuteJim](https://routinehub.co/user/HirsuteJim).
 
 [Running Late](https://github.com/calikasten/siri-shortcuts/blob/main/Running%20Late.shortcut) <br>
