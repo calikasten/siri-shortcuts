@@ -102,17 +102,11 @@ Asks for a URL input to create a QR code for and copies the QR code to the clipb
 [Get App Icon](https://github.com/calikasten/siri-shortcuts/blob/main/Get%20App%20Icon.shortcut) <br>
 Saves the image of app icon for the specified input.
 
-[Menu With Custom Icons](https://github.com/calikasten/siri-shortcuts/blob/main/Menu%20With%20Custom%20Icons.shortcut) <br>
-Use Base64 encoded images to display as custom icons in a menu.
-
 [Network Tools](https://github.com/calikasten/siri-shortcuts/blob/main/Network%20Tools.shortcut) <br>
 Converts Wi-Fi network name and password into a QR code, retrieves external IP address, displays physical IP location, and initiates a network speed test utilizing fast.com.
 
 [Preview NFC Tag](https://github.com/calikasten/siri-shortcuts/blob/main/Preview%20NFC%20Tag.shortcut) <br>
 Preview the URL of an NFC tag.
-
-[Shortcut List](https://github.com/calikasten/siri-shortcuts/blob/main/Shortcut%20List.shortcut) <br>
-Opens list of shortcuts to select from.
 
 [Special Characters](https://github.com/calikasten/siri-shortcuts/blob/main/Special%20Characters.shortcut) <br>
 Opens a list of common special characters and copies the selected special character to the clipboard.
