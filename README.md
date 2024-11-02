@@ -28,16 +28,6 @@ Suggests a random cocktail to make based on dictionary of drinks (manually pre-d
 Suggests potential meals to make based on in stock ingredients from Airtable database of ingredients and recipes.
 ![What To Make For Dinner](https://github.com/user-attachments/assets/34e88da4-1d16-4a6f-8c39-3a28fa70b2b9)
 
-## Work
-[Rejected Watermark] <br>
-Overlay "Rejected" watermark stamp on selected file. Original author [entee](https://routinehub.co/user/entee).
-
-[Update Raspberry Pi](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20Raspberry%20Pi.shortcut) <br>
-Checks if there's an update for npm and reboots after installing update (run over SSH).
-
-[View Source Code](https://www.icloud.com/shortcuts/08a196774173491ab39ba3413db4a0dc) <br>
-Displays a preview of the HTML source code of a web page.
-
 ## Travel
 [Cash vs. Points](https://github.com/calikasten/siri-shortcuts/blob/main/Cash%20vs.%20Points.shortcut) <br>
 Calculator to determine if the better deal is to purchase a flight or hotel room with cash or with points.
@@ -72,6 +62,19 @@ Automatically opens both Uber and Lyft to compare prices for given pick up and d
 ## Media
 [Streaming Lookup](https://github.com/calikasten/siri-shortcuts/blob/main/Streaming%20Lookup.shortcut) <br>
 Utilizes [justwatch.com](justwatch.com) to display where to stream content after entering desired movie or tv show.
+
+## Work
+Now-Next-Later Roadmap <br>
+Automatically send a status update for a now-next-later outcome style roadmap.
+
+[Rejected Watermark] <br>
+Overlay "Rejected" watermark stamp on selected file. Original author [entee](https://routinehub.co/user/entee).
+
+[Update Raspberry Pi](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20Raspberry%20Pi.shortcut) <br>
+Checks if there's an update for npm and reboots after installing update (run over SSH).
+
+[View Source Code](https://www.icloud.com/shortcuts/08a196774173491ab39ba3413db4a0dc) <br>
+Displays a preview of the HTML source code of a web page.
 
 ## Productivity
 [Date Countdown](https://github.com/calikasten/siri-shortcuts/blob/main/Date%20Countdown.shortcut) <br>
