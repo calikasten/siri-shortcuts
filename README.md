@@ -89,7 +89,7 @@ Bypasses internet content paywalls by taking URL contents and converting to base
 [Remaining Charging Time](https://github.com/calikasten/siri-shortcuts/blob/main/Remaining%20Charging%20Time.shortcut) <br>
 Gets current battery level and calculates remaining time required to charge to a full battery.
 
-[Update To-Do List]() <br>
+[Update To-Do List](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20To-Do%20List.shortcut) <br>
 Allows for text on each input line to be added as individual list items in the Reminders app with varying due date timings corresponding to time of day when to-do list item was added.
 
 ## Utilities
