@@ -18,9 +18,6 @@ Given a series of inputs about a property, automatically calculates some assumed
 [Sort Photos to Albums](https://github.com/calikasten/siri-shortcuts/blob/main/Sort%20Photos%20to%20Albums.shortcut) <br>
 Automatically sort any wiener dog photos taken that day into the corresopnding dachshund photo album; best set up as a recurring personal automation.
 
-[Suggest a Cocktail] <br>
-Suggests a random cocktail to make based on dictionary of drinks (manually pre-determined based on available ingredients).
-
 [Ween Watch 2.0](https://github.com/calikasten/siri-shortcuts/blob/main/Ween%20Watch%202.0.shortcut) <br>
 [[ARCHIVED]]. Log activies for your wiener dog to keep track of their food, business, and exercise. Version 2.0 sends a POST request to the Airtable API to create a new record in shared Airtable database.
 
