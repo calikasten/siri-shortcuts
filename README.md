@@ -67,7 +67,7 @@ Utilizes [justwatch.com](justwatch.com) to display where to stream content after
 Now-Next-Later Roadmap <br>
 Automatically send a status update for a now-next-later outcome style roadmap.
 
-[Rejected Watermark] <br>
+[Rejected Watermark](https://github.com/calikasten/siri-shortcuts/blob/main/Rejected%20Watermark.shortcut) <br>
 Overlay "Rejected" watermark stamp on selected file. Original author [entee](https://routinehub.co/user/entee).
 
 [Update Raspberry Pi](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20Raspberry%20Pi.shortcut) <br>
