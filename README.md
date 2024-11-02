@@ -9,7 +9,7 @@ Checks for any F1 Grand Prix event in the next day and creates an alarm an hour 
 [Custom Fitness Rings](https://github.com/calikasten/siri-shortcuts/blob/main/Custom%20Fitness%20Rings.shortcut) <br>
 Utilizes custom picked Health metrics to generate a ring-closure chart via [Charty](https://chartyios.app/), similar to the Apple Fitness style rings. Download the custom theme for the ring colors by installing: charty://add-theme?name=Apple-Fitness-Rings&colors=00E3DE,B0FF03,FA0F59.
 
-[Log Latest Meal] <br>
+[Log Latest Meal](https://github.com/calikasten/siri-shortcuts/blob/main/Log%20Latest%20Meal.shortcut) <br>
 Log a meal to track the types of food and meals eaten every day by sending a POST request to the Airtable API to create a new record.
 
 [Rental Investment Calculator](https://github.com/calikasten/siri-shortcuts/blob/main/Rental%20Investment%20Calculator.shortcut) <br>
