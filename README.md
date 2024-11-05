@@ -74,6 +74,9 @@ Checks if there's an update for npm and reboots after installing update (run ove
 Displays a preview of the HTML source code of a web page.
 
 ## Productivity
+[Character Count] <br>
+Count the number of characters for the text in the clipboard or in the provided input.
+
 [Date Countdown](https://github.com/calikasten/siri-shortcuts/blob/main/Date%20Countdown.shortcut) <br>
 Asks for a date input for the countdown and then displays the number of days until the date input.
 
@@ -83,11 +86,17 @@ Bypasses internet content paywalls by taking URL contents and displaying via Qui
 [Paywall Bypass Via Base64 Encode]( https://github.com/calikasten/siri-shortcuts/blob/main/Paywall%20Bypass%20Via%20Base64%20Encode.shortcut) <br>
 Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
 
-[Remaining Charging Time](https://github.com/calikasten/siri-shortcuts/blob/main/Remaining%20Charging%20Time.shortcut) <br>
-Gets current battery level and calculates remaining time required to charge to a full battery.
+[Special Characters Menu]() <br>
+Opens a list of common special characters and copies the selected special character to the clipboard.
+
+[Timestamp Formats](https://github.com/calikasten/siri-shortcuts/blob/main/Timestamp%20Formats.shortcut) <br>
+Opens a list of common timestamp formats based on a provided date/time input and copies the selected format to the clipboard.
 
 [Update To-Do List](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20To-Do%20List.shortcut) <br>
 Allows for text on each input line to be added as individual list items in the Reminders app with varying due date timings corresponding to time of day when to-do list item was added.
+
+[Word Count] <br>
+Count the number of words for the text in the clipboard or in the provided input.
 
 ## Utilities
 [Backup to iCloud](https://github.com/calikasten/siri-shortcuts/blob/main/Backup%20To%20iCloud.shortcut) <br>
@@ -108,11 +117,8 @@ Converts Wi-Fi network name and password into a QR code, retrieves and displays 
 [Preview NFC Tag](https://github.com/calikasten/siri-shortcuts/blob/main/Preview%20NFC%20Tag.shortcut) <br>
 Preview the URL of an NFC tag.
 
-[Special Characters](https://github.com/calikasten/siri-shortcuts/blob/main/Special%20Characters.shortcut) <br>
-Opens a list of common special characters and copies the selected special character to the clipboard.
-
-[Timestamp Formats](https://github.com/calikasten/siri-shortcuts/blob/main/Timestamp%20Formats.shortcut) <br>
-Opens a list of common timestamp formats based on a provided date/time input and copies the selected format to the clipboard.
+[Remaining Charging Time](https://github.com/calikasten/siri-shortcuts/blob/main/Remaining%20Charging%20Time.shortcut) <br>
+Gets current battery level and calculates remaining time required to charge to a full battery.
 
 [Turn On AirDrop](https://github.com/calikasten/siri-shortcuts/blob/main/Turn%20On%20AirDrop.shortcut) <br>
 Turns on AirDrop receiving on for "Everyone" for 10 minutes.
