@@ -103,7 +103,7 @@ Asks for a URL input to create a QR code for and copies the QR code to the clipb
 Saves the image of app icon for the specified input.
 
 [Network Tools](https://github.com/calikasten/siri-shortcuts/blob/main/Network%20Tools.shortcut) <br>
-Converts Wi-Fi network name and password into a QR code, retrieves external IP address, displays physical IP location, and initiates a network speed test utilizing fast.com.
+Converts Wi-Fi network name and password into a QR code, retrieves and displays IP info, can initiate a network speed test utilizing fast.com, and send a test ping. Original author [theodorjs](https://shortcutsgallery.com/shortcuts/network-tool/).
 
 [Preview NFC Tag](https://github.com/calikasten/siri-shortcuts/blob/main/Preview%20NFC%20Tag.shortcut) <br>
 Preview the URL of an NFC tag.
