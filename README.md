@@ -77,7 +77,7 @@ Displays a preview of the HTML source code of a web page.
 [Character Count](https://github.com/calikasten/siri-shortcuts/blob/main/Character%20Count.shortcut) <br>
 Count the number of characters for the text in the clipboard or in the provided input.
 
-[Date Countdown](https://github.com/calikasten/siri-shortcuts/blob/main/Date%20Countdown.shortcut) <br>
+[Date Countdown] <br>
 Asks for a date input for the countdown and then displays the number of days until the date input.
 
 [Paywall Bypass Via Quick Look](https://github.com/calikasten/siri-shortcuts/blob/main/Paywall%20Bypass%20Via%20Quick%20Look.shortcut) <br>
