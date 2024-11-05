@@ -74,7 +74,7 @@ Checks if there's an update for npm and reboots after installing update (run ove
 Displays a preview of the HTML source code of a web page.
 
 ## Productivity
-[Character Count] <br>
+[Character Count](https://github.com/calikasten/siri-shortcuts/blob/main/Character%20Count.shortcut) <br>
 Count the number of characters for the text in the clipboard or in the provided input.
 
 [Date Countdown](https://github.com/calikasten/siri-shortcuts/blob/main/Date%20Countdown.shortcut) <br>
@@ -86,7 +86,7 @@ Bypasses internet content paywalls by taking URL contents and displaying via Qui
 [Paywall Bypass Via Base64 Encode]( https://github.com/calikasten/siri-shortcuts/blob/main/Paywall%20Bypass%20Via%20Base64%20Encode.shortcut) <br>
 Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
 
-[Special Characters Menu]() <br>
+[Special Characters Menu](https://github.com/calikasten/siri-shortcuts/blob/main/Special%20Characters%20Menu.shortcut) <br>
 Opens a list of common special characters and copies the selected special character to the clipboard.
 
 [Timestamp Formats](https://github.com/calikasten/siri-shortcuts/blob/main/Timestamp%20Formats.shortcut) <br>
@@ -95,7 +95,7 @@ Opens a list of common timestamp formats based on a provided date/time input and
 [Update To-Do List](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20To-Do%20List.shortcut) <br>
 Allows for text on each input line to be added as individual list items in the Reminders app with varying due date timings corresponding to time of day when to-do list item was added.
 
-[Word Count] <br>
+[Word Count](https://github.com/calikasten/siri-shortcuts/blob/main/Word%20Count.shortcut) <br>
 Count the number of words for the text in the clipboard or in the provided input.
 
 ## Utilities
