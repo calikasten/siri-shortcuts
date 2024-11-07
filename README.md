@@ -1,6 +1,6 @@
 # Siri Shortcuts
 Siri Shortcuts for iOS, iPadOS, and macOS. 
-Last Updated 11/04/2024.
+Last Updated 11/06/2024.
 
 ## Personal
 [Alarm For Next F1 Race](https://github.com/calikasten/siri-shortcuts/blob/main/Alarm%20For%20Next%20F1%20Race.shortcut) <br>
@@ -60,7 +60,7 @@ Automatically opens both Uber and Lyft to compare prices for given pick up and d
 [Streaming Lookup](https://github.com/calikasten/siri-shortcuts/blob/main/Streaming%20Lookup.shortcut) <br>
 Utilizes [justwatch.com](justwatch.com) to display where to stream content after entering desired movie or tv show.
 
-## Work & Productivity 
+## Productivity (and Work)
 [Character Count](https://github.com/calikasten/siri-shortcuts/blob/main/Character%20Count.shortcut) <br>
 Count the number of characters for the text in the clipboard or in the provided input.
 
