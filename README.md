@@ -18,9 +18,6 @@ Given a series of inputs about a property, automatically calculates some assumed
 [Sort Photos to Albums](https://github.com/calikasten/siri-shortcuts/blob/main/Sort%20Photos%20to%20Albums.shortcut) <br>
 Automatically sort any wiener dog photos taken that day into the corresopnding dachshund photo album; best set up as a recurring personal automation.
 
-[Transcribe Podcast] <br>
-Get the most recent podcast episode from that podcast's RSS feed and save the audio to a new Apple Note to then apply transcription and/or summarization via Apple Intelligence. Original author [Stephen Robles](https://beard.fm).
-
 [Ween Watch 2.0](https://github.com/calikasten/siri-shortcuts/blob/main/Ween%20Watch%202.0.shortcut) <br>
 [[ARCHIVED]]. Log activies for your wiener dog to keep track of their food, business, and exercise. Version 2.0 sends a POST request to the Airtable API to create a new record in shared Airtable database.
 
@@ -63,22 +60,12 @@ Automatically opens both Uber and Lyft to compare prices for given pick up and d
 [Streaming Lookup](https://github.com/calikasten/siri-shortcuts/blob/main/Streaming%20Lookup.shortcut) <br>
 Utilizes [justwatch.com](justwatch.com) to display where to stream content after entering desired movie or tv show.
 
-## Work
-Now-Next-Later Roadmap <br>
-Automatically send a status update for a now-next-later outcome style roadmap.
-
-[Rejected Watermark](https://github.com/calikasten/siri-shortcuts/blob/main/Rejected%20Watermark.shortcut) <br>
-Overlay "Rejected" watermark stamp on selected file. Original author [entee](https://routinehub.co/user/entee).
-
-[Update Raspberry Pi](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20Raspberry%20Pi.shortcut) <br>
-Checks if there's an update for npm and reboots after installing update (run over SSH).
-
-[View Source Code](https://www.icloud.com/shortcuts/08a196774173491ab39ba3413db4a0dc) <br>
-Displays a preview of the HTML source code of a web page.
-
-## Productivity
+## Work & Productivity 
 [Character Count](https://github.com/calikasten/siri-shortcuts/blob/main/Character%20Count.shortcut) <br>
 Count the number of characters for the text in the clipboard or in the provided input.
+
+Now-Next-Later Roadmap <br>
+Automatically send a status update for a now-next-later outcome style roadmap.
 
 [Paywall Bypass Via Quick Look](https://github.com/calikasten/siri-shortcuts/blob/main/Paywall%20Bypass%20Via%20Quick%20Look.shortcut) <br>
 Bypasses internet content paywalls by taking URL contents and displaying via Quick Look. Original author [robric18](https://routinehub.co/user/robric18).
@@ -92,8 +79,17 @@ Opens a list of common special characters and copies the selected special charac
 [Timestamp Formats](https://github.com/calikasten/siri-shortcuts/blob/main/Timestamp%20Formats.shortcut) <br>
 Opens a list of common timestamp formats based on a provided date/time input and copies the selected format to the clipboard.
 
+[Transcribe Podcast] <br>
+Get the most recent podcast episode from that podcast's RSS feed and save the audio to a new Apple Note to then apply transcription and/or summarization via Apple Intelligence. Original author [Stephen Robles](https://beard.fm).
+
+[Update Raspberry Pi](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20Raspberry%20Pi.shortcut) <br>
+Checks if there's an update for npm and reboots after installing update (run over SSH).
+
 [Update To-Do List](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20To-Do%20List.shortcut) <br>
 Allows for text on each input line to be added as individual list items in the Reminders app with varying due date timings corresponding to time of day when to-do list item was added.
+
+[View Source Code](https://www.icloud.com/shortcuts/08a196774173491ab39ba3413db4a0dc) <br>
+Displays a preview of the HTML source code of a web page.
 
 [Word Count](https://github.com/calikasten/siri-shortcuts/blob/main/Word%20Count.shortcut) <br>
 Count the number of words for the text in the clipboard or in the provided input.
