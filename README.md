@@ -1,6 +1,6 @@
 # Siri Shortcuts
 Siri Shortcuts for iOS, iPadOS, and macOS. 
-Last Updated 11/06/2024.
+Last Updated 12/05/2024.
 
 ## Personal
 [Alarm For Next F1 Race](https://github.com/calikasten/siri-shortcuts/blob/main/Alarm%20For%20Next%20F1%20Race.shortcut) <br>
@@ -82,8 +82,8 @@ Opens a list of common timestamp formats based on a provided date/time input and
 [Transcribe Podcast] <br>
 Get the most recent podcast episode from that podcast's RSS feed and save the audio to a new Apple Note to then apply transcription and/or summarization via Apple Intelligence. Original author [Stephen Robles](https://beard.fm).
 
-[Update Raspberry Pi](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20Raspberry%20Pi.shortcut) <br>
-Checks if there's an update for npm and reboots after installing update (run over SSH).
+[Update Servers] <br>
+Presents menu of Raspberry Pi/Homebridge update options and runs the updates via shell script over SSH.
 
 [Update To-Do List](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20To-Do%20List.shortcut) <br>
 Allows for text on each input line to be added as individual list items in the Reminders app with varying due date timings corresponding to time of day when to-do list item was added.
