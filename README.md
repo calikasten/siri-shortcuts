@@ -82,9 +82,6 @@ Opens a list of common timestamp formats based on a provided date/time input and
 [Transcribe Podcast] <br>
 Get the most recent podcast episode from that podcast's RSS feed and save the audio to a new Apple Note to then apply transcription and/or summarization via Apple Intelligence. Original author [Stephen Robles](https://beard.fm).
 
-[Update Servers] <br>
-Presents menu of Raspberry Pi/Homebridge update options and runs the updates via shell script over SSH.
-
 [Update To-Do List](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20To-Do%20List.shortcut) <br>
 Allows for text on each input line to be added as individual list items in the Reminders app with varying due date timings corresponding to time of day when to-do list item was added.
 
