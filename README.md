@@ -1,6 +1,6 @@
 # Siri Shortcuts
 Siri Shortcuts for iOS, iPadOS, and macOS. 
-Last Updated 12/05/2024.
+Last Updated 4/9/2025.
 
 ## Personal
 [Alarm For Next F1 Race](https://github.com/calikasten/siri-shortcuts/blob/main/Alarm%20For%20Next%20F1%20Race.shortcut) <br>
@@ -60,12 +60,12 @@ Automatically opens both Uber and Lyft to compare prices for given pick up and d
 [Streaming Lookup](https://github.com/calikasten/siri-shortcuts/blob/main/Streaming%20Lookup.shortcut) <br>
 Utilizes [justwatch.com](justwatch.com) to display where to stream content after entering desired movie or tv show.
 
-## Productivity (and Work)
+## Productivity & Work
+[App Stats](https://github.com/calikasten/siri-shortcuts/blob/main/App%20Stats.shortcut) <br>
+Pull general information about a given App Store app. 
+
 [Character Count](https://github.com/calikasten/siri-shortcuts/blob/main/Character%20Count.shortcut) <br>
 Count the number of characters for the text in the clipboard or in the provided input.
-
-Now-Next-Later Roadmap <br>
-Automatically send a status update for a now-next-later outcome style roadmap.
 
 [Paywall Bypass Via Quick Look](https://github.com/calikasten/siri-shortcuts/blob/main/Paywall%20Bypass%20Via%20Quick%20Look.shortcut) <br>
 Bypasses internet content paywalls by taking URL contents and displaying via Quick Look. Original author [robric18](https://routinehub.co/user/robric18).
