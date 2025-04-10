@@ -12,8 +12,8 @@ Utilizes custom picked Health metrics to generate a ring-closure chart via [Char
 [Log Latest Meal](https://github.com/calikasten/siri-shortcuts/blob/main/Log%20Latest%20Meal.shortcut) <br>
 Log a meal to track the types of food and meals eaten every day by sending a POST request to the Airtable API to create a new record.
 
-[Log Plant Watering]() <br>
-Log a plant watering to update the las
+[Log Plant Watering](https://github.com/calikasten/siri-shortcuts/blob/main/Log%20Plant%20Watering.shortcut) <br>
+Select the plant(s) watered from a pick-list of plants and update the timestamp stored in Data Jar for when that plant was last watered.
 
 [Plant Watering Schedule](https://github.com/calikasten/siri-shortcuts/blob/main/Plant%20Watering%20Schedule.shortcut) <br>
 Show a list of plants that need watering right now based on Data Jar values that reference the last logged watering timestamp and a pre-determined schedule for the number of days before that plant needs to be watered again.
