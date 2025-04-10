@@ -85,7 +85,7 @@ Get the most recent podcast episode from that podcast's RSS feed and save the au
 [Update To-Do List](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20To-Do%20List.shortcut) <br>
 Allows for text on each input line to be added as individual list items in the Reminders app with varying due date timings corresponding to time of day when to-do list item was added.
 
-[View Source Code](https://www.icloud.com/shortcuts/08a196774173491ab39ba3413db4a0dc) <br>
+[View Source Code](https://github.com/calikasten/siri-shortcuts/blob/main/View%20Source%20Code.shortcut) <br>
 Displays a preview of the HTML source code of a web page.
 
 [Word Count](https://github.com/calikasten/siri-shortcuts/blob/main/Word%20Count.shortcut) <br>
