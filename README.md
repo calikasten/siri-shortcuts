@@ -1,6 +1,6 @@
 # Siri Shortcuts
 Siri Shortcuts for iOS, iPadOS, and macOS. 
-Last Updated 4/9/2025.
+Last Updated 4/21/2025.
 
 ## Personal
 [Alarm For Next F1 Race](https://github.com/calikasten/siri-shortcuts/blob/main/Alarm%20For%20Next%20F1%20Race.shortcut) <br>
@@ -23,6 +23,9 @@ Given a series of inputs about a property, automatically calculates some assumed
 
 [Sort Photos to Albums](https://github.com/calikasten/siri-shortcuts/blob/main/Sort%20Photos%20to%20Albums.shortcut) <br>
 Automatically sort any wiener dog photos taken that day into the corresopnding dachshund photo album; best set up as a recurring personal automation.
+
+[Sound Effects](https://github.com/calikasten/siri-shortcuts/blob/main/Sound%20Effects.shortcut) <br>
+A variety of sound effects that can be played via Base64 decoding. Original author [Matthew Cassinelli](https://matthewcassinelli.com/sirishortcuts/).
 
 [Ween Watch 2.0](https://github.com/calikasten/siri-shortcuts/blob/main/Ween%20Watch%202.0.shortcut) <br>
 [[ARCHIVED]]. Log activies for your wiener dog to keep track of their food, business, and exercise. Version 2.0 sends a POST request to the Airtable API to create a new record in shared Airtable database.
@@ -80,6 +83,9 @@ Bypasses internet content paywalls by taking URL contents and converting to base
 
 [Special Characters Menu](https://github.com/calikasten/siri-shortcuts/blob/main/Special%20Characters%20Menu.shortcut) <br>
 Opens a list of common special characters and copies the selected special character to the clipboard.
+
+[Spongecase](https://github.com/calikasten/siri-shortcuts/blob/main/Spongecase.shortcut) <br>
+Randomly alternating character casing reminiscient of the "mocking SpongeBob" meme. Original author author [Tim Wilson](https://github.com/twilsonco).
 
 [Timestamp Formats](https://github.com/calikasten/siri-shortcuts/blob/main/Timestamp%20Formats.shortcut) <br>
 Opens a list of common timestamp formats based on a provided date/time input and copies the selected format to the clipboard.
