@@ -90,9 +90,6 @@ Randomly alternating character casing reminiscient of the "mocking SpongeBob" me
 [Timestamp Formats](https://github.com/calikasten/siri-shortcuts/blob/main/Timestamp%20Formats.shortcut) <br>
 Opens a list of common timestamp formats based on a provided date/time input and copies the selected format to the clipboard.
 
-[Transcribe Podcast] <br>
-Get the most recent podcast episode from that podcast's RSS feed and save the audio to a new Apple Note to then apply transcription and/or summarization via Apple Intelligence. Original author [Stephen Robles](https://beard.fm).
-
 [Update To-Do List](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20To-Do%20List.shortcut) <br>
 Allows for text on each input line to be added as individual list items in the Reminders app with varying due date timings corresponding to time of day when to-do list item was added.
 
