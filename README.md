@@ -100,6 +100,9 @@ Count the number of words for the text in the clipboard or in the provided input
 [Backup to iCloud](https://github.com/calikasten/siri-shortcuts/blob/main/Backup%20To%20iCloud.shortcut) <br>
 Saves a copy of all current shortcuts to iCloud drive (utilizing .shortcut extension).
 
+[Connect to VPN]() <br>
+Connects to the designated VPN. 
+
 [Eject Water](https://github.com/calikasten/siri-shortcuts/blob/main/Eject%20Water.shortcut) <br>
 Uses a low frequency sound to eject any water from the iPhone's speakers. Original author [u/Josh6780](https://www.reddit.com/r/shortcuts/comments/9s6bng/eject_water_from_your_device_like_an_apple_watch/).
 
@@ -123,6 +126,3 @@ Turns on AirDrop receiving on for "Everyone" for 10 minutes.
 
 [Toggle White Noise](https://github.com/calikasten/siri-shortcuts/blob/main/Toggle%20White%20Noise.shortcut) <br>
 Toggles white noise on/off using iPhone/iPad background sounds.
-
-[Toggle VPN](https://github.com/calikasten/siri-shortcuts/blob/main/Toggle%20VPN.shortcut) <br>
-Toggles the designated VPN on or off. 
