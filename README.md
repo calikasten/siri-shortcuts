@@ -37,7 +37,7 @@ Calculator to determine if the better deal is to purchase a flight or hotel room
 [Current Altitude](https://github.com/calikasten/siri-shortcuts/blob/main/Current%20Altitude.shortcut) <br>
 Gets altitude from current location and displays the number of feet above sea level.
 
-[Directions to Next Event](https://github.com/calikasten/siri-shortcuts/blob/main/Directions%20To%20Next%20Location.shortcut) <br>
+[Directions to Next Location]() <br>
 Automatically opens directions to the next calendar event, or directions home if no event. 
 
 [GPS Coordinates](https://github.com/calikasten/siri-shortcuts/blob/main/GPS%20Coordinates.shortcut) <br>
@@ -100,7 +100,7 @@ Count the number of words for the text in the clipboard or in the provided input
 [Backup to iCloud](https://github.com/calikasten/siri-shortcuts/blob/main/Backup%20To%20iCloud.shortcut) <br>
 Saves a copy of all current shortcuts to iCloud drive (utilizing .shortcut extension).
 
-[Connect to VPN]() <br>
+[Connect to VPN](https://github.com/calikasten/siri-shortcuts/blob/main/Connect%20to%20VPN.shortcut) <br>
 Connects to the designated VPN. 
 
 [Eject Water](https://github.com/calikasten/siri-shortcuts/blob/main/Eject%20Water.shortcut) <br>
@@ -108,9 +108,6 @@ Uses a low frequency sound to eject any water from the iPhone's speakers. Origin
 
 [Generate QR Code](https://github.com/calikasten/siri-shortcuts/blob/main/Generate%20QR%20Code.shortcut) <br>
 Asks for a URL input to create a QR code for and copies the QR code to the clipboard.
-
-[Get App Icon](https://github.com/calikasten/siri-shortcuts/blob/main/Get%20App%20Icon.shortcut) <br>
-Saves the image of app icon for the specified input.
 
 [Network Tools](https://github.com/calikasten/siri-shortcuts/blob/main/Network%20Tools.shortcut) <br>
 Converts Wi-Fi network name and password into a QR code, retrieves and displays IP info, can initiate a network speed test utilizing fast.com, and send a test ping. Original author [theodorjs](https://shortcutsgallery.com/shortcuts/network-tool/).
