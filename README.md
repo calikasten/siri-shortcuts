@@ -78,6 +78,9 @@ Bypasses internet content paywalls by taking URL contents and displaying via Qui
 [Paywall Bypass Via Base64 Encode]( https://github.com/calikasten/siri-shortcuts/blob/main/Paywall%20Bypass%20Via%20Base64%20Encode.shortcut) <br>
 Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
 
+[Rejected Watermark](https://github.com/calikasten/siri-shortcuts/blob/main/Rejected%20Watermark.shortcut) <br>
+Overlays the 🚫 emoji on a document.
+
 [Special Characters Menu](https://github.com/calikasten/siri-shortcuts/blob/main/Special%20Characters%20Menu.shortcut) <br>
 Opens a list of common special characters and copies the selected special character to the clipboard.
 
