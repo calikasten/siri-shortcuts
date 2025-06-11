@@ -37,7 +37,7 @@ Calculator to determine if the better deal is to purchase a flight or hotel room
 [Current Altitude](https://github.com/calikasten/siri-shortcuts/blob/main/Current%20Altitude.shortcut) <br>
 Gets altitude from current location and displays the number of feet above sea level.
 
-[Directions to Next Location]() <br>
+[Directions to Next Location](https://github.com/calikasten/siri-shortcuts/blob/main/Directions%20To%20Next%20Location.shortcut) <br>
 Automatically opens directions to the next calendar event, or directions home if no event. 
 
 [GPS Coordinates](https://github.com/calikasten/siri-shortcuts/blob/main/GPS%20Coordinates.shortcut) <br>
