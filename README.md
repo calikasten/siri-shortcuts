@@ -1,6 +1,6 @@
 # Siri Shortcuts
 Siri Shortcuts for iOS, iPadOS, and macOS. 
-Last Updated 06/11/2025.
+Last Updated 06/12/2025.
 
 ## Personal
 [Alarm For Next F1 Race](https://github.com/calikasten/siri-shortcuts/blob/main/Alarm%20For%20Next%20F1%20Race.shortcut) <br>
@@ -66,6 +66,9 @@ Automatically opens both Uber and Lyft to compare prices for given pick up and d
 Utilizes [justwatch.com](justwatch.com) to display where to stream content after entering desired movie or tv show.
 
 ## Productivity & Work
+[Add Fathom Notes to Obsidian](https://github.com/calikasten/siri-shortcuts/blob/main/Add%20Fathom%20Meeting%20Notes%20to%20Obsidian.shortcut) <br>
+Runs the [Format Fathom Notes](https://github.com/calikasten/scripts/blob/master/Format%20Fathom%20Notes.scpt) AppleScript, asks the user to input the meeting name/note title, automatically prepends today's date, creates a new blank .md file with that title in the appropriate Obsidian vault folder, and then opens Obsidian. AppleScript results are copied to clipboard and can then be quickly pasted in the newly created file (to preserve formatting). For MacOS only. 
+
 [App Stats](https://github.com/calikasten/siri-shortcuts/blob/main/App%20Stats.shortcut) <br>
 Pull general information about a given App Store app. 
 
