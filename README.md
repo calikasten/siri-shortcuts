@@ -1,5 +1,5 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. 
+Siri Shortcuts for iOS, iPadOS, and macOS. <br>
 Last Updated 06/12/2025.
 
 ## Personal
