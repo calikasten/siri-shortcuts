@@ -54,6 +54,9 @@ Retrieves travel time between current location and destination of next calendar 
 [Set New Time Zone Alarm](https://github.com/calikasten/siri-shortcuts/blob/main/Set%20New%20Time%20Zone%20Alarm.shortcut) <br>
 Asks what new time zone you're in and then sets weekday alarm schedule adjusted for the selected time zone.
 
+[Severe Weather Alert](https://github.com/calikasten/siri-shortcuts/blob/main/Severe%20Weather%20Alert.shortcut) <br>
+Surfaces National Weather Service weather alerts for given region. Original author [Stephen Robles](https://beard.fm/).
+
 [Time to Leave](https://github.com/calikasten/siri-shortcuts/blob/main/Time%20To%20Leave.shortcut) <br>
 Identifies the first event at a new location and recommends what time to leave based on the travel time.
 
