@@ -8,6 +8,9 @@ Checks for any F1 Grand Prix event in the next day and creates an alarm an hour 
 [Custom Fitness Rings](https://github.com/calikasten/siri-shortcuts/blob/main/Custom%20Fitness%20Rings.shortcut) <br>
 Utilizes custom picked Health metrics to generate a ring-closure chart via [Charty](https://chartyios.app/), similar to the Apple Fitness style rings. Download the custom theme for the ring colors by installing: charty://add-theme?name=Apple-Fitness-Rings&colors=00E3DE,B0FF03,FA0F59.
 
+[Delay Plant Watering Reminder]() <br>
+Delays daily plant watering reminder by resending Pushcut notification to run Plant Watering shortcut at 7:00pm. 
+
 [Log Plant Watering](https://github.com/calikasten/siri-shortcuts/blob/main/Log%20Plant%20Watering.shortcut) <br>
 Select the plant(s) watered from a pick-list of plants and update the timestamp stored in Data Jar for when that plant was last watered.
 
