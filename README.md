@@ -1,5 +1,5 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 06/12/2025.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 06/30/2025.
 
 ## Personal
 [Alarm For Next F1 Race](https://github.com/calikasten/siri-shortcuts/blob/main/Alarm%20For%20Next%20F1%20Race.shortcut) <br>
@@ -8,7 +8,7 @@ Checks for any F1 Grand Prix event in the next day and creates an alarm an hour 
 [Custom Fitness Rings](https://github.com/calikasten/siri-shortcuts/blob/main/Custom%20Fitness%20Rings.shortcut) <br>
 Utilizes custom picked Health metrics to generate a ring-closure chart via [Charty](https://chartyios.app/), similar to the Apple Fitness style rings. Download the custom theme for the ring colors by installing: charty://add-theme?name=Apple-Fitness-Rings&colors=00E3DE,B0FF03,FA0F59.
 
-[Delay Plant Watering Reminder]() <br>
+[Delay Plant Watering Reminder](https://github.com/calikasten/siri-shortcuts/blob/main/Delay%20Plant%20Watering%20Reminder.shortcut) <br>
 Delays daily plant watering reminder by resending Pushcut notification to run Plant Watering shortcut at 7:00pm. 
 
 [Log Plant Watering](https://github.com/calikasten/siri-shortcuts/blob/main/Log%20Plant%20Watering.shortcut) <br>
