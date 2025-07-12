@@ -1,5 +1,5 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 06/30/2025.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 07/12/2025.
 
 ## Personal
 [Alarm For Next F1 Race](https://github.com/calikasten/siri-shortcuts/blob/main/Alarm%20For%20Next%20F1%20Race.shortcut) <br>
@@ -111,9 +111,6 @@ Count the number of words for the text in the clipboard or in the provided input
 [Backup to iCloud](https://github.com/calikasten/siri-shortcuts/blob/main/Backup%20To%20iCloud.shortcut) <br>
 Saves a copy of all current shortcuts to iCloud drive (utilizing .shortcut extension).
 
-[Connect to VPN](https://github.com/calikasten/siri-shortcuts/blob/main/Connect%20to%20VPN.shortcut) <br>
-Connects to the designated VPN. 
-
 [Eject Water](https://github.com/calikasten/siri-shortcuts/blob/main/Eject%20Water.shortcut) <br>
 Uses a low frequency sound to eject any water from the iPhone's speakers. Original author [u/Josh6780](https://www.reddit.com/r/shortcuts/comments/9s6bng/eject_water_from_your_device_like_an_apple_watch/).
 
@@ -128,9 +125,3 @@ Preview the URL of an NFC tag.
 
 [Remaining Charging Time](https://github.com/calikasten/siri-shortcuts/blob/main/Remaining%20Charging%20Time.shortcut) <br>
 Gets current battery level and calculates remaining time required to charge to a full battery.
-
-[Turn On AirDrop](https://github.com/calikasten/siri-shortcuts/blob/main/Turn%20On%20AirDrop.shortcut) <br>
-Turns on AirDrop receiving on for "Everyone" for 10 minutes.
-
-[Toggle White Noise](https://github.com/calikasten/siri-shortcuts/blob/main/Toggle%20White%20Noise.shortcut) <br>
-Toggles white noise on/off using iPhone/iPad background sounds.
