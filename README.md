@@ -1,5 +1,5 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 07/23/2025.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 08/04/2025.
 
 ## Personal
 [Alarm For Next F1 Race](https://github.com/calikasten/siri-shortcuts/blob/main/Alarm%20For%20Next%20F1%20Race.shortcut) <br>
