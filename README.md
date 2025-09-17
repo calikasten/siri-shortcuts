@@ -128,3 +128,6 @@ Preview the URL of an NFC tag.
 
 [Remaining Charging Time](https://github.com/calikasten/siri-shortcuts/blob/main/Remaining%20Charging%20Time.shortcut) <br>
 Gets current battery level and calculates remaining time required to charge to a full battery.
+
+[Quick Menu](https://github.com/calikasten/siri-shortcuts/blob/main/Quick%20Menu.shortcut) <br>
+Utilizes [Menu Box](https://menubox.app/) to create a menu of frequently used "quick actions"; best set up as a Shortcut triggered with the Action Button.
