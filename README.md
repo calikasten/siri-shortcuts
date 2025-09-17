@@ -1,5 +1,5 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 08/04/2025.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 09/17/2025.
 
 ## Personal
 [Alarm For Next F1 Race](https://github.com/calikasten/siri-shortcuts/blob/main/Alarm%20For%20Next%20F1%20Race.shortcut) <br>
@@ -93,7 +93,7 @@ Bypasses internet content paywalls by taking URL contents and converting to base
 Opens a list of common special characters and copies the selected special character to the clipboard.
 
 [Spongecase](https://github.com/calikasten/siri-shortcuts/blob/main/Spongecase.shortcut) <br>
-Randomly alternating character casing reminiscient of the "mocking SpongeBob" meme. Original author author [Tim Wilson](https://github.com/twilsonco).
+Randomly alternating character casing reminiscient of the "mocking SpongeBob" meme. Original author [Tim Wilson](https://github.com/twilsonco).
 
 [Timestamp Formats](https://github.com/calikasten/siri-shortcuts/blob/main/Timestamp%20Formats.shortcut) <br>
 Opens a list of common timestamp formats based on a provided date/time input and copies the selected format to the clipboard.
@@ -116,6 +116,9 @@ Uses a low frequency sound to eject any water from the iPhone's speakers. Origin
 
 [Generate QR Code](https://github.com/calikasten/siri-shortcuts/blob/main/Generate%20QR%20Code.shortcut) <br>
 Asks for a URL input to create a QR code for and copies the QR code to the clipboard.
+
+[Model Comparison](https://github.com/calikasten/siri-shortcuts/blob/main/Model%20Comparison.shortcut) <br>
+Asks for an input to use as a prompt and compare responses between the on device model, the private cloud model, and ChatGPT (4o). Original author [Stephen Robles](https://beard.fm/).
 
 [Network Tools](https://github.com/calikasten/siri-shortcuts/blob/main/Network%20Tools.shortcut) <br>
 Converts Wi-Fi network name and password into a QR code, retrieves and displays IP info, can initiate a network speed test utilizing fast.com, and send a test ping. Original author [theodorjs](https://shortcutsgallery.com/shortcuts/network-tool/).
