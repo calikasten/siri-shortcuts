@@ -1,5 +1,5 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 09/18/2025.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 09/19/2025.
 
 ## Personal
 [Alarm For Next F1 Race](https://github.com/calikasten/siri-shortcuts/blob/main/Alarm%20For%20Next%20F1%20Race.shortcut) <br>
@@ -13,6 +13,9 @@ Delays daily plant watering reminder by resending Pushcut notification to run Pl
 
 [Log Plant Watering](https://github.com/calikasten/siri-shortcuts/blob/main/Log%20Plant%20Watering.shortcut) <br>
 Select the plant(s) watered from a pick-list of plants and update the timestamp stored in Data Jar for when that plant was last watered.
+
+[Morning Brief](https://github.com/calikasten/siri-shortcuts/blob/main/Morning%20Brief.shortcut) <br>
+A morning brief read out of updates for to prepare for the day.
 
 [Plant Watering Schedule](https://github.com/calikasten/siri-shortcuts/blob/main/Plant%20Watering%20Schedule.shortcut) <br>
 Show a list of plants that need watering right now based on Data Jar values that reference the last logged watering timestamp and a pre-determined schedule for the number of days before that plant needs to be watered again.
