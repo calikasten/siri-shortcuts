@@ -1,5 +1,5 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 09/19/2025.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 09/23/2025.
 
 ## Personal
 [Alarm For Next F1 Race](https://github.com/calikasten/siri-shortcuts/blob/main/Alarm%20For%20Next%20F1%20Race.shortcut) <br>
@@ -134,6 +134,9 @@ Gets current battery level and calculates remaining time required to charge to a
 
 [Shortcuts vCard Menu](https://github.com/calikasten/siri-shortcuts/blob/main/Shortcuts%20vCard%20Menu.shortcut) <br>
 Creates a vCard menu of Shortcuts; best set up as a Shortcut triggered with the Action Button.
+
+[Toggle VPN]() <br>
+Check current status of VPN and toggle to the appropriate opposite status.
 
 [Quick Menu](https://github.com/calikasten/siri-shortcuts/blob/main/Quick%20Menu.shortcut) <br>
 Utilizes [Menu Box](https://menubox.app/) to create a menu of frequently used "quick actions"; best set up as a Shortcut triggered with the Action Button.
