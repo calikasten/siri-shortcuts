@@ -135,7 +135,7 @@ Gets current battery level and calculates remaining time required to charge to a
 [Shortcuts vCard Menu](https://github.com/calikasten/siri-shortcuts/blob/main/Shortcuts%20vCard%20Menu.shortcut) <br>
 Creates a vCard menu of Shortcuts; best set up as a Shortcut triggered with the Action Button.
 
-[Toggle VPN]() <br>
+[Toggle VPN](https://github.com/calikasten/siri-shortcuts/blob/main/Toggle%20VPN.shortcut) <br>
 Check current status of VPN and toggle to the appropriate opposite status.
 
 [Quick Menu](https://github.com/calikasten/siri-shortcuts/blob/main/Quick%20Menu.shortcut) <br>
