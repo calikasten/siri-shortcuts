@@ -27,7 +27,7 @@ Automatically sort any wiener dog photos taken that day into the corresopnding d
 A variety of sound effects that can be played via Base64 decoding. Original author [Matthew Cassinelli](https://matthewcassinelli.com/sirishortcuts/).
 
 [Ween Watch 2.0](https://github.com/calikasten/siri-shortcuts/blob/main/Ween%20Watch%202.0.shortcut) **ARCHIVED** <br>
-Log activies for your wiener dog to keep track of their food, business, and exercise. Logged activities are displayed in (Dog Days 2.0([https://github.com/calikasten/scriptable/blob/main/Dog%20Days%202.0.js] Scriptable widget.
+Log activies for your wiener dog to keep track of their food, business, and exercise. Logged activities are displayed in [Dog Days 2.0](https://github.com/calikasten/scriptable/blob/main/Dog%20Days%202.0.js) Scriptable widget.
 
 [What To Make For Dinner](https://github.com/calikasten/siri-shortcuts/blob/main/What%20To%20Make%20For%20Dinner.shortcut) <br>
 Suggests potential meals to make based on in stock ingredients from Airtable database of ingredients and recipes.
