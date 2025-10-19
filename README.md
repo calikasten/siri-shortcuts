@@ -12,7 +12,7 @@ Utilizes custom picked Health metrics to generate a ring-closure chart via [Char
 Delays daily plant watering reminder by resending Pushcut notification to run Plant Watering shortcut at 7:00pm. 
 
 [Log Plant Watering](https://github.com/calikasten/siri-shortcuts/blob/main/Log%20Plant%20Watering.shortcut) <br>
-Select the plant(s) watered from a pick-list of plants and update the timestamp stored in DataJar for when that plant was last watered; updated values are then passed through to ("Plants To Water Today" Scriptable widget)[].
+Select the plant(s) watered from a pick-list of plants and update the timestamp stored in DataJar for when that plant was last watered; updated values are then passed through to (Plants To Water Today)[] Scriptable widget.
 
 [Morning Brief](https://github.com/calikasten/siri-shortcuts/blob/main/Morning%20Brief.shortcut) <br>
 A morning brief read out of updates for to prepare for the day.
