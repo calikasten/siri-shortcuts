@@ -12,13 +12,10 @@ Utilizes custom picked Health metrics to generate a ring-closure chart via [Char
 Delays daily plant watering reminder by resending Pushcut notification to run Plant Watering shortcut at 7:00pm. 
 
 [Log Plant Watering](https://github.com/calikasten/siri-shortcuts/blob/main/Log%20Plant%20Watering.shortcut) <br>
-Select the plant(s) watered from a pick-list of plants and update the timestamp stored in Data Jar for when that plant was last watered.
+Select the plant(s) watered from a pick-list of plants and update the timestamp stored in DataJar for when that plant was last watered; updated values are then passed through to ("Plants To Water Today" Scriptable widget)[].
 
 [Morning Brief](https://github.com/calikasten/siri-shortcuts/blob/main/Morning%20Brief.shortcut) <br>
 A morning brief read out of updates for to prepare for the day.
-
-[Plant Watering Schedule](https://github.com/calikasten/siri-shortcuts/blob/main/Plant%20Watering%20Schedule.shortcut) <br>
-Show a list of plants that need watering right now based on Data Jar values that reference the last logged watering timestamp and a pre-determined schedule for the number of days before that plant needs to be watered again.
 
 [Rental Investment Calculator](https://github.com/calikasten/siri-shortcuts/blob/main/Rental%20Investment%20Calculator.shortcut) <br>
 Given a series of inputs about a property, automatically calculates some assumed values and returns monthly cash flow and annual cash on cash ROI. Original author [reydn](https://routinehub.co/user/reydn).
