@@ -98,6 +98,9 @@ Opens a list of common special characters and copies the selected special charac
 [Spongecase](https://github.com/calikasten/siri-shortcuts/blob/main/Spongecase.shortcut) <br>
 Randomly alternating character casing reminiscient of the "mocking SpongeBob" meme. Original author [Tim Wilson](https://github.com/twilsonco).
 
+[Summarize Ideas](https://github.com/calikasten/siri-shortcuts/blob/main/Summarize%20Ideas.shortcut) <br>
+Start a voice recording to brainstorm out loud before having AI summarize the recording; a new note is created with the bullet point summary. Original author [Stephen Robles](https://beard.fm/).
+
 [Timestamp Formats](https://github.com/calikasten/siri-shortcuts/blob/main/Timestamp%20Formats.shortcut) <br>
 Opens a list of common timestamp formats based on a provided date/time input and copies the selected format to the clipboard.
 
