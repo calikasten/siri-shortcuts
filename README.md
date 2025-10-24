@@ -20,6 +20,9 @@ A morning brief read out of updates for to prepare for the day.
 [Rental Investment Calculator](https://github.com/calikasten/siri-shortcuts/blob/main/Rental%20Investment%20Calculator.shortcut) <br>
 Given a series of inputs about a property, automatically calculates some assumed values and returns monthly cash flow and annual cash on cash ROI. Original author [reydn](https://routinehub.co/user/reydn).
 
+[Skip Alarm(s)](https://github.com/calikasten/siri-shortcuts/blob/main/Skip%20Alarm(s).shortcut) <br>
+Skip all upcoming alarms, including the sleep schedule alarm (for next alarm only).
+
 [Sort Photos to Albums](https://github.com/calikasten/siri-shortcuts/blob/main/Sort%20Photos%20to%20Albums.shortcut) <br>
 Automatically sort any wiener dog photos taken that day into the corresopnding dachshund photo album; best set up as a recurring personal automation.
 
