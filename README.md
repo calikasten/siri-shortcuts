@@ -41,24 +41,6 @@ Skip all upcoming alarms, including the sleep schedule alarm (for next alarm onl
 [Ween Watch 2.0](https://github.com/calikasten/siri-shortcuts/blob/main/Ween%20Watch%202.0.shortcut) **ARCHIVED** <br>
 Log activies for your wiener dog to keep track of their food, business, and exercise. Logged activities are displayed in [Dog Days 2.0](https://github.com/calikasten/scriptable/blob/main/Dog%20Days%202.0.js) Scriptable widget.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Travel 
 [Current Altitude](https://github.com/calikasten/siri-shortcuts/blob/main/Current%20Altitude.shortcut) <br>
 Gets altitude from current location and displays the number of feet above sea level.
@@ -134,17 +116,8 @@ Asks for an input to use as a prompt and compare responses between the on device
 [Network Tools](https://github.com/calikasten/siri-shortcuts/blob/main/Network%20Tools.shortcut) <br>
 Converts Wi-Fi network name and password into a QR code, retrieves and displays IP info, can initiate a network speed test utilizing fast.com, and send a test ping. Original author [theodorjs](https://shortcutsgallery.com/shortcuts/network-tool/).
 
-[Paywall Bypass Via Quick Look](https://github.com/calikasten/siri-shortcuts/blob/main/Paywall%20Bypass%20Via%20Quick%20Look.shortcut) <br>
-Bypasses internet content paywalls by taking URL contents and displaying via Quick Look. Original author [robric18](https://routinehub.co/user/robric18).
-
-[Paywall Bypass Via Base64 Encode]( https://github.com/calikasten/siri-shortcuts/blob/main/Paywall%20Bypass%20Via%20Base64%20Encode.shortcut) <br>
-Bypasses internet content paywalls by taking URL contents and converting to base64 to view encoded binary data as printable text. Original author [u/UwUSoundRadio](https://www.reddit.com/r/shortcuts/comments/da5jw7/paywall_bypass/).
-
 [Preview NFC Tag](https://github.com/calikasten/siri-shortcuts/blob/main/Preview%20NFC%20Tag.shortcut) <br>
 Preview the URL of an NFC tag.
-
-[Remaining Charging Time](https://github.com/calikasten/siri-shortcuts/blob/main/Remaining%20Charging%20Time.shortcut) <br>
-Gets current battery level and calculates remaining time required to charge to a full battery.
 
 [Shortcuts vCard Menu](https://github.com/calikasten/siri-shortcuts/blob/main/Shortcuts%20vCard%20Menu.shortcut) <br>
 Creates a vCard menu of Shortcuts; best set up as a Shortcut triggered with the Action Button.
