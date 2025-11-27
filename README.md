@@ -2,6 +2,9 @@
 Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 11/27/2025.
 
 ## Automations
+[Action Button Quick Menu](https://github.com/calikasten/siri-shortcuts/blob/main/Action%20Button%20Quick%20Menu.shortcut) <br>
+Utilizes [Menu Box](https://menubox.app/) to create a menu of frequently used "quick actions"; best set up as a Shortcut triggered with the Action Button.
+
 [Alarm For Next F1 Race](https://github.com/calikasten/siri-shortcuts/blob/main/Alarm%20For%20Next%20F1%20Race.shortcut) <br>
 Checks for any F1 Grand Prix event in the next day and creates an alarm an hour before the race starts (and deletes any previous Grand Prix alarms); best set up as a recurring personal automation to run every Saturday night. Uses [F1 Calendar](https://f1calendar.com/).
 
@@ -41,9 +44,6 @@ Given a series of inputs about a property, automatically calculates some assumed
 Utilizes [justwatch.com](justwatch.com) to display where to stream content after entering desired movie or tv show.
 
 ### Personal
-[Action Button Quick Menu](https://github.com/calikasten/siri-shortcuts/blob/main/Action%20Button%20Quick%20Menu.shortcut) <br>
-Utilizes [Menu Box](https://menubox.app/) to create a menu of frequently used "quick actions"; best set up as a Shortcut triggered with the Action Button.
-
 [Log Plant Watering](https://github.com/calikasten/siri-shortcuts/blob/main/Log%20Plant%20Watering.shortcut) <br>
 Select the plant(s) watered from a pick-list of plants and update the timestamp stored in [Data Jar](https://datajar.app/) for when that plant was last watered; updated values are then passed through to [Plants To Water Today]() Scriptable widget.
 
