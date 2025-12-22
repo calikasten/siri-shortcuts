@@ -26,9 +26,6 @@ Allows user to input number to save as current weight in Apple Health app.
 Turns on the Fitness focus mode for one hour and opens the Peloton app.
 
 ### Home & Family
-**WIP** [Leftover Recipes] <br>
-Uses AI to recommend potential meals to make based on leftovers and common pantry items.
-
 [What To Make For Dinner](https://github.com/calikasten/siri-shortcuts/blob/main/What%20To%20Make%20For%20Dinner.shortcut) <br>
 Suggests potential meals to make based on in stock ingredients from Airtable database of ingredients and recipes.
 
