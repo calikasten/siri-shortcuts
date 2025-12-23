@@ -1,5 +1,5 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 12/21/2025.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 12/22/2025.
 
 ## Automations
 [Action Button Quick Menu](https://github.com/calikasten/siri-shortcuts/blob/main/Action%20Button%20Quick%20Menu.shortcut) <br>
