@@ -1,5 +1,5 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 12/22/2025.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 12/23/2025.
 
 ## Automations
 [Action Button Quick Menu](https://github.com/calikasten/siri-shortcuts/blob/main/Action%20Button%20Quick%20Menu.shortcut) <br>
@@ -18,9 +18,6 @@ Automatically sort any wiener dog photos taken that day into the corresopnding d
 ### Health & Fitness
 [Custom Fitness Rings](https://github.com/calikasten/siri-shortcuts/blob/main/Custom%20Fitness%20Rings.shortcut) <br>
 Utilizes custom picked Health metrics to generate a ring-closure chart via [Charty](https://chartyios.app/), similar to the Apple Fitness style rings. Download the custom theme for the ring colors by installing: charty://add-theme?name=Apple-Fitness-Rings&colors=00E3DE,B0FF03,FA0F59.
-
-[Log Weight](https://github.com/calikasten/siri-shortcuts/blob/main/Log%20Weight.shortcut) <br>
-Allows user to input number to save as current weight in Apple Health app.
 
 [Open Peloton](https://github.com/calikasten/siri-shortcuts/blob/main/Open%20Peloton.shortcut) <br>
 Turns on the Fitness focus mode for one hour and opens the Peloton app.
@@ -50,7 +47,10 @@ Skip all upcoming alarms, including the sleep schedule alarm (for next alarm onl
 **ARCHIVED** [Ween Watch 2.0](https://github.com/calikasten/siri-shortcuts/blob/main/Ween%20Watch%202.0.shortcut) <br>
 Log activies for your wiener dog to keep track of their food, business, and exercise. Logged activities are displayed in [Dog Days 2.0](https://github.com/calikasten/scriptable/blob/main/Dog%20Days%202.0.js) Scriptable widget.
 
-### Travel 
+### Travel
+[Automatic Packing List](https://github.com/calikasten/siri-shortcuts/blob/main/Automated%20Packing%20List.shortcut) <br>
+Gets upcoming trip from calendar, reviews weather forecast for destination, provides recommended packing list based on trip duration and weather forecast.
+
 [Current Altitude](https://github.com/calikasten/siri-shortcuts/blob/main/Current%20Altitude.shortcut) <br>
 Gets altitude from current location and displays the number of feet above sea level.
 
