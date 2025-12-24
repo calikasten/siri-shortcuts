@@ -9,7 +9,7 @@ Utilizes [Menu Box](https://menubox.app/) to create a menu of frequently used "q
 Checks for any F1 Grand Prix event in the next day and creates an alarm an hour before the race starts (and deletes any previous Grand Prix alarms); best set up as a recurring personal automation to run every Saturday night. Uses [F1 Calendar](https://f1calendar.com/).
 
 [Morning Brief](https://github.com/calikasten/siri-shortcuts/blob/main/Morning%20Brief.shortcut) <br>
-A morning brief read out of updates for to prepare for the day; best set up as a recurring personal automation to run each moring.
+A morning brief that reads out general info for the day including a sports recap and nearby concerts tonight; best set up as a recurring personal automation to run each moring.
 
 [Sort Photos to Albums](https://github.com/calikasten/siri-shortcuts/blob/main/Sort%20Photos%20to%20Albums.shortcut) <br>
 Automatically sort any wiener dog photos taken that day into the corresopnding dachshund photo album; best set up as a recurring personal automation to run each night.
