@@ -55,7 +55,7 @@ Gets upcoming trip from calendar, reviews weather forecast for destination, prov
 Gets altitude from current location and displays the number of feet above sea level.
 
 [Custom Packing List](https://github.com/calikasten/siri-shortcuts/blob/main/Custom%20Packing%20List.shortcut) <br>
-Retrieves clothing options from Airtable database inventory and displays as list.
+Retrieves clothing options from inventory (tracked in Airtable database) and displays packing list of specifically selected clothing items.
 
 [Directions to Next Location](https://github.com/calikasten/siri-shortcuts/blob/main/Directions%20To%20Next%20Location.shortcut) <br>
 Automatically opens directions to the next calendar event, or directions home if no event. 
