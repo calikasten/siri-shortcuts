@@ -1,5 +1,5 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 12/24/2025.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 12/25/2025.
 
 ## Automations
 [Action Button Quick Menu](https://github.com/calikasten/siri-shortcuts/blob/main/Action%20Button%20Quick%20Menu.shortcut) <br>
@@ -54,7 +54,7 @@ Gets upcoming trip from calendar, reviews weather forecast for destination, prov
 [Current Altitude](https://github.com/calikasten/siri-shortcuts/blob/main/Current%20Altitude.shortcut) <br>
 Gets altitude from current location and displays the number of feet above sea level.
 
-[Custom Packing List] <br>
+[Custom Packing List](https://github.com/calikasten/siri-shortcuts/blob/main/Custom%20Packing%20List.shortcut) <br>
 Retrieves clothing options from Airtable database inventory and displays as list.
 
 [Directions to Next Location](https://github.com/calikasten/siri-shortcuts/blob/main/Directions%20To%20Next%20Location.shortcut) <br>
