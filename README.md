@@ -100,7 +100,7 @@ Receives a file, image, or PDF as an input to the shortcut and overlays the 🚫
 [Start Quick Note](https://github.com/calikasten/siri-shortcuts/blob/main/Start%20Quick%20Note.shortcut) <br>
 Utilizes [Quick Notes](https://apps.apple.com/us/app/quick-notes-easy-voice-notes/id6754181571) to start a new Quick Notes recording.
 
-[Summarize Anything]() <br>
+[Summarize Anything](https://github.com/calikasten/siri-shortcuts/blob/main/Summarize%20Anything.shortcut) <br>
 Uses AI to summarize the input from a selected file or clipboard content into a thesis and key bullet points that are displayed in Quick Look. Original author [Stephen Robles](https://beard.fm/).
 
 [Update To-Do List](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20To-Do%20List.shortcut) <br>
