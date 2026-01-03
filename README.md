@@ -1,5 +1,5 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 12/27/2025.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 01/02/2026.
 
 ## Automations
 [Action Button Quick Menu](https://github.com/calikasten/siri-shortcuts/blob/main/Action%20Button%20Quick%20Menu.shortcut) <br>
@@ -102,6 +102,9 @@ Utilizes [Quick Notes](https://apps.apple.com/us/app/quick-notes-easy-voice-note
 
 [Summarize Anything](https://github.com/calikasten/siri-shortcuts/blob/main/Summarize%20Anything.shortcut) <br>
 Uses AI to summarize the input from a selected file or clipboard content into a thesis and key bullet points that are displayed in Quick Look. Original author [Stephen Robles](https://beard.fm/).
+
+[Summarize Podcast](https://github.com/calikasten/siri-shortcuts/blob/main/Summarize%20Podcast.shortcut) <br>
+Uses AI to summarize a podcast based on the podcast link/URL to provide and overview, key themes/insights/discussion points, and actionable takeaways. Original author [Stephen Robles](https://beard.fm/).
 
 [Update To-Do List](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20To-Do%20List.shortcut) <br>
 Allows for text on each input line to be added as individual list items in the Reminders app with varying due date timings corresponding to time of day when to-do list item was added.
