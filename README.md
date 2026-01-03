@@ -1,5 +1,5 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 01/02/2026.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 01/03/2026.
 
 ## Automations
 [Action Button Quick Menu](https://github.com/calikasten/siri-shortcuts/blob/main/Action%20Button%20Quick%20Menu.shortcut) <br>
@@ -94,6 +94,9 @@ Pull general information about a given App Store app.
 [Character Count](https://github.com/calikasten/siri-shortcuts/blob/main/Character%20Count.shortcut) <br>
 Count the number of characters for the text in the clipboard or in the provided input.
 
+[Detailed Podcast Summary](https://github.com/calikasten/siri-shortcuts/blob/main/Detailed%20Podcast%20Summary.shortcut) <br>
+Uses AI to summarize a podcast based on the podcast link/URL to provide and overview, key themes/insights/discussion points, and actionable takeaways.
+
 [Overlay "Rejection" Watermark](https://github.com/calikasten/siri-shortcuts/blob/main/Overlay%20%E2%80%9CRejection%E2%80%9D%20Watermark.shortcut) <br>
 Receives a file, image, or PDF as an input to the shortcut and overlays the 🚫 emoji via Base64 encoding.
 
@@ -102,9 +105,6 @@ Utilizes [Quick Notes](https://apps.apple.com/us/app/quick-notes-easy-voice-note
 
 [Summarize Anything](https://github.com/calikasten/siri-shortcuts/blob/main/Summarize%20Anything.shortcut) <br>
 Uses AI to summarize the input from a selected file or clipboard content into a thesis and key bullet points that are displayed in Quick Look. Original author [Stephen Robles](https://beard.fm/).
-
-[Summarize Podcast](https://github.com/calikasten/siri-shortcuts/blob/main/Summarize%20Podcast.shortcut) <br>
-Uses AI to summarize a podcast based on the podcast link/URL to provide and overview, key themes/insights/discussion points, and actionable takeaways. Original author [Stephen Robles](https://beard.fm/).
 
 [Update To-Do List](https://github.com/calikasten/siri-shortcuts/blob/main/Update%20To-Do%20List.shortcut) <br>
 Allows for text on each input line to be added as individual list items in the Reminders app with varying due date timings corresponding to time of day when to-do list item was added.
