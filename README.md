@@ -116,7 +116,7 @@ Displays a preview of the HTML source code of a web page.
 Count the number of words for the text in the clipboard or in the provided input.
 
 ## Utilities
-[Backup to iCloud](https://github.com/calikasten/siri-shortcuts/blob/main/Shortcuts/Backup%20To%20iCloud.shortcut <br>
+[Backup to iCloud](https://github.com/calikasten/siri-shortcuts/blob/main/Shortcuts/Backup%20To%20iCloud.shortcut) <br>
 Saves a copy of all current shortcuts to iCloud drive (utilizing .shortcut extension).
 
 [Eject Water](https://github.com/calikasten/siri-shortcuts/blob/main/Shortcuts/Eject%20Water.shortcut) <br>
@@ -124,6 +124,9 @@ Uses a low frequency sound to eject any water from the iPhone's speakers. Origin
 
 [Generate QR Code](https://github.com/calikasten/siri-shortcuts/blob/main/Shortcuts/Generate%20QR%20Code.shortcut) <br>
 Asks for a URL input to create a QR code for and copies the QR code to the clipboard.
+
+[Get App Icon](https://github.com/calikasten/siri-shortcuts/blob/main/Shortcuts/Get%20App%20Icon.shortcut) <br>
+Get icon image file for a selected application.
 
 [Model Comparison](https://github.com/calikasten/siri-shortcuts/blob/main/Shortcuts/Model%20Comparison.shortcut) <br>
 Asks for an input to use as a prompt and compare responses between the on device model, the private cloud model, and ChatGPT (4o). Original author [Stephen Robles](https://beard.fm/).
