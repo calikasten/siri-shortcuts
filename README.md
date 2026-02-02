@@ -85,7 +85,7 @@ Identifies the first event at a new location and recommends what time to leave b
 Automatically opens both Uber and Lyft to compare prices for given pick up and drop off inputs. Original author [u/mcmackinr11](https://www.reddit.com/user/mcmackinr11/).
 
 ### Work & Productivity
-[Add Fathom Notes to Obsidian]https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Add%20Fathom%20Meeting%20Notes%20to%20Obsidian.shortcut) <br>
+[Add Fathom Notes to Obsidian](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Add%20Fathom%20Meeting%20Notes%20to%20Obsidian.shortcut) <br>
 Runs the [Format Fathom Notes](https://github.com/calikasten/scripts/blob/master/Format%20Fathom%20Notes.scpt) AppleScript, creates a new blank .md file with a title input value in the appropriate Obsidian vault folder, and then opens Obsidian. 
 
 [App Stats](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/App%20Stats.shortcut) <br>
