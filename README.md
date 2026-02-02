@@ -48,7 +48,7 @@ Skip all upcoming alarms, including the sleep schedule alarm (for next alarm onl
 Log activies for your wiener dog to keep track of their food, business, and exercise. Logged activities are displayed in [Dog Days 2.0](https://github.com/calikasten/scriptable/blob/main/scripts/dog-days.js) Scriptable widget.
 
 ### Travel
-[Automated Packing List]([https://github.com/calikasten/siri-shortcuts/blob/main/Shortcuts/Automated%20Packing%20List.shortcut](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Automated%20Packing%20List.shortcut)) <br>
+[Automated Packing List](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Automated%20Packing%20List.shortcut) <br>
 Gets upcoming trip from calendar, reviews weather forecast for destination, provides recommended packing list based on trip duration and weather forecast.
 
 [Current Altitude](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Current%20Altitude.shortcut) <br>
