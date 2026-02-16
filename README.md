@@ -97,6 +97,9 @@ Count the number of characters for the text in the clipboard or in the provided 
 [Detailed Podcast Summary](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Detailed%20Podcast%20Summary.shortcut) <br>
 Uses AI to summarize a podcast based on the podcast link/URL to provide and overview, key themes/insights/discussion points, and actionable takeaways.
 
+[Meeting Attendee Research](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Meeting%20Attendee%20Research.shortcut) <br>
+Uses AI to review today's calendar event, note which meetings have external attendees and research those individuals to create pre-meeting research.
+
 [Overlay "Rejection" Watermark](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Overlay%20%E2%80%9CRejection%E2%80%9D%20Watermark.shortcut) <br>
 Receives a file, image, or PDF as an input to the shortcut and overlays the 🚫 emoji via Base64 encoding.
 
