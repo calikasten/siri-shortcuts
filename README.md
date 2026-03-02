@@ -19,7 +19,7 @@ Automatically sort any wiener dog photos taken that day into the corresopnding d
 [Custom Fitness Rings](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Custom%20Fitness%20Rings.shortcut) <br>
 Utilizes custom picked Health metrics to generate a ring-closure chart via [Charty](https://chartyios.app/), similar to the Apple Fitness style rings. Download the custom theme for the ring colors by installing: charty://add-theme?name=Apple-Fitness-Rings&colors=00E3DE,B0FF03,FA0F59.
 
-[Log Water] <br>
+[Log Water Intake](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Log%20Water%20Intake.shortcut) <br>
 Logs 16oz of water intake to Apple Health and displays how many ounces consumed so far today.
 
 [Open Peloton](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Open%20Peloton.shortcut) <br>
