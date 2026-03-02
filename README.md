@@ -1,5 +1,5 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 02/16/2026.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 03/02/2026.
 
 ## Automations
 [Action Button Menu](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Action%20Button%20Menu.shortcut) <br>
@@ -18,6 +18,9 @@ Automatically sort any wiener dog photos taken that day into the corresopnding d
 ### Health & Fitness
 [Custom Fitness Rings](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Custom%20Fitness%20Rings.shortcut) <br>
 Utilizes custom picked Health metrics to generate a ring-closure chart via [Charty](https://chartyios.app/), similar to the Apple Fitness style rings. Download the custom theme for the ring colors by installing: charty://add-theme?name=Apple-Fitness-Rings&colors=00E3DE,B0FF03,FA0F59.
+
+[Log Water] <br>
+Logs 16oz of water intake to Apple Health and displays how many ounces consumed so far today.
 
 [Open Peloton](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Open%20Peloton.shortcut) <br>
 Turns on the Fitness focus mode for one hour and opens the Peloton app.
