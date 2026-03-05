@@ -1,12 +1,12 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 03/02/2026.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 03/04/2026.
 
 ## Automations
-[Action Button Menu](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Action%20Button%20Menu.shortcut) <br>
-Utilizes [Menu Box](https://menubox.app/) to create a menu of frequently used "quick actions"; best set up as a Shortcut triggered with the Action Button.
-
 [Alarm For Next F1 Race](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Alarm%20For%20Next%20F1%20Race.shortcut) <br>
 Checks for any F1 Grand Prix event in the next day and creates an alarm an hour before the race starts (and deletes any previous Grand Prix alarms); best set up as a recurring personal automation to run every Saturday night. Uses [F1 Calendar](https://f1calendar.com/).
+
+[Lock Screen Menu](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Lock%20Screen%20Menu.shortcut) <br>
+Utilizes [Menu Box](https://menubox.app/) to create a menu of frequently used "quick actions"; best set up as a Shortcut triggered with the Action Button.
 
 [Morning Brief](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Morning%20Brief.shortcut) <br>
 A morning brief that reads out general info for the day including a sports recap and nearby concerts tonight; best set up as a recurring personal automation to run each moring.
