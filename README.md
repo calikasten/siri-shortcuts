@@ -22,7 +22,7 @@ Utilizes custom picked Health metrics to generate a ring-closure chart via [Char
 [Log Water Intake](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Log%20Water%20Intake.shortcut) <br>
 Logs 16oz of water intake to Apple Health and displays how many ounces consumed so far today.
 
-[Open Hevy] <br>
+[Open Hevy](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Open%20Hevy.shortcut) <br>
 Turns on the Fitness focus mode for one hour, opens the Music and Hevy apps in split screen, and starts a workout playlist.
 
 [Open Peloton](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Open%20Peloton.shortcut) <br>
