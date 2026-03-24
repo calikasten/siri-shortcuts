@@ -1,5 +1,5 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 03/11/2026.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 03/24/2026.
 
 ## Automations
 [Action Button Menu](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Action%20Button%20Menu.shortcut) <br>
@@ -21,6 +21,9 @@ Utilizes custom picked Health metrics to generate a ring-closure chart via [Char
 
 [Log Water Intake](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Log%20Water%20Intake.shortcut) <br>
 Logs 16oz of water intake to Apple Health and displays how many ounces consumed so far today.
+
+[Open Hevy] <br>
+Turns on the Fitness focus mode for one hour, opens the Music and Hevy apps in split screen, and starts a workout playlist.
 
 [Open Peloton](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Open%20Peloton.shortcut) <br>
 Turns on the Fitness focus mode for one hour and opens the Peloton app.
