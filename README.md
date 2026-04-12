@@ -32,7 +32,7 @@ Turns on the Fitness focus mode for one hour and opens the Peloton app.
 [In Stock Meals](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/In%20Stock%20Meals.shortcut) <br>
 Suggests potential meals to make based on in stock ingredients from Airtable database of ingredients and recipes.
 
-[Weekly Meal Planning]() <br>
+[Weekly Meal Planning](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Weekly%20Meal%20Planning.shortcut) <br>
 Get evening calendar events for the next week and determine how many meals will need to be cooked at home with potential suggestions on what to make based on a list of options stored in [Data Jar](https://datajar.app/)
 
 ### Finance
