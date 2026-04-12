@@ -100,7 +100,7 @@ Pull general information about a given App Store app.
 [Character Count](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Character%20Count.shortcut) <br>
 Count the number of characters for the text in the clipboard or in the provided input.
 
-[Coding Window Layout] <br>
+[Coding Window Layout](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Coding%20Window%20Layout.shortcut) <br>
 Asks for user to select from Scriptable or Textastic for the left window and Textastic, Claude, or Claude Code (via Termius) for the right window.
 
 [Detailed Podcast Summary](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Detailed%20Podcast%20Summary.shortcut) <br>
@@ -127,7 +127,7 @@ Displays a preview of the HTML source code of a web page.
 [Word Count](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Word%20Count.shortcut) <br>
 Count the number of words for the text in the clipboard or in the provided input.
 
-[YouTube Research Window Layout] <br>
+[YouTube Research Window Layout](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/YouTube%20Research%20Window%20Layout.shortcut) <br>
 Opens YouTube in the left window and asks the user to select from Notion or Obsidian for the right window.
 
 ## Utilities
