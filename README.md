@@ -29,7 +29,10 @@ Turns on the Fitness focus mode for one hour, opens the Music and Hevy apps in s
 Turns on the Fitness focus mode for one hour and opens the Peloton app.
 
 ### Home & Family
-[What To Make For Dinner](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/What%20To%20Make%20For%20Dinner.shortcut) <br>
+[Dinner Ideas](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Dinner%20Ideas.shortcut) <br>
+Suggests a random meal for dinner based on a list of options stored in [Data Jar](https://datajar.app/)
+
+[In Stock Meals](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/In%20Stock%20Meals.shortcut) <br>
 Suggests potential meals to make based on in stock ingredients from Airtable database of ingredients and recipes.
 
 ### Finance
