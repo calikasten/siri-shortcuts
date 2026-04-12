@@ -1,5 +1,5 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 03/24/2026.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 04/12/2026.
 
 ## Automations
 [Action Button Menu](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Action%20Button%20Menu.shortcut) <br>
@@ -100,6 +100,9 @@ Pull general information about a given App Store app.
 [Character Count](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Character%20Count.shortcut) <br>
 Count the number of characters for the text in the clipboard or in the provided input.
 
+[Coding Window Layout] <br>
+Asks for user to select from Scriptable or Textastic for the left window and Textastic, Claude, or Claude Code (via Termius) for the right window.
+
 [Detailed Podcast Summary](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Detailed%20Podcast%20Summary.shortcut) <br>
 Uses AI to summarize a podcast based on the podcast link/URL to provide and overview, key themes/insights/discussion points, and actionable takeaways.
 
@@ -123,6 +126,9 @@ Displays a preview of the HTML source code of a web page.
 
 [Word Count](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Word%20Count.shortcut) <br>
 Count the number of words for the text in the clipboard or in the provided input.
+
+[YouTube Research Window Layout] <br>
+Opens YouTube in the left window and asks the user to select from Notion or Obsidian for the right window.
 
 ## Utilities
 [Backup to iCloud](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Backup%20To%20iCloud.shortcut) <br>
