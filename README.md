@@ -5,7 +5,7 @@ Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 05/06/2026.
 [Action Button Menu]() <br>
 Utilizes [Menu Box](https://menubox.app/) to create a menu of frequently used "quick actions"; best set up as a Shortcut triggered with the Action Button.
 
-[Alarm For Next F1 Race](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Alarm%20For%20Next%20F1%20Race.shortcut) <br>
+[Alarm For Next F1 Race]() <br>
 Checks for any F1 Grand Prix event in the next day and creates an alarm an hour before the race starts (and deletes any previous Grand Prix alarms); best set up as a recurring personal automation to run every Saturday night. Uses [F1 Calendar](https://f1calendar.com/).
 
 [Morning Brief](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Morning%20Brief.shortcut) <br>
@@ -94,9 +94,6 @@ Identifies the first event at a new location and recommends what time to leave b
 Automatically opens both Uber and Lyft to compare prices for given pick up and drop off inputs. Original author [u/mcmackinr11](https://www.reddit.com/user/mcmackinr11/).
 
 ### Work & Productivity
-[Add Fathom Notes to Obsidian](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Add%20Fathom%20Meeting%20Notes%20to%20Obsidian.shortcut) <br>
-Runs the [Format Fathom Meeting Notes](https://github.com/calikasten/scripts/blob/main/scripts/format-fathom-notes.scpt) AppleScript, creates a new blank .md file with a title input value in the appropriate Obsidian vault folder, and then opens Obsidian. 
-
 [App Stats](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/App%20Stats.shortcut) <br>
 Pull general information about a given App Store app. 
 
@@ -112,11 +109,11 @@ Uses AI to summarize a podcast based on the podcast link/URL to provide and over
 [Meeting Attendee Research](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Meeting%20Attendee%20Research.shortcut) <br>
 Uses AI to review today's calendar event, note which meetings have external attendees and research those individuals to create pre-meeting research.
 
+[New Dictation]() <br>
+Utilizes [Quick Notes](https://apps.apple.com/us/app/quick-notes-easy-voice-notes/id6754181571) to start a new Quick Notes recording.
+
 [Overlay "Rejection" Watermark](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Overlay%20%E2%80%9CRejection%E2%80%9D%20Watermark.shortcut) <br>
 Receives a file, image, or PDF as an input to the shortcut and overlays the 🚫 emoji via Base64 encoding.
-
-[Start Quick Note](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Start%20Quick%20Note.shortcut) <br>
-Utilizes [Quick Notes](https://apps.apple.com/us/app/quick-notes-easy-voice-notes/id6754181571) to start a new Quick Notes recording.
 
 [Summarize Anything](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Summarize%20Anything.shortcut) <br>
 Uses AI to summarize the input from a selected file or clipboard content into a thesis and key bullet points that are displayed in Quick Look. Original author [Stephen Robles](https://beard.fm/).
@@ -136,6 +133,9 @@ Opens YouTube in the left window and asks the user to select from Notion or Obsi
 ## Utilities
 [Backup to iCloud](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Backup%20To%20iCloud.shortcut) <br>
 Saves a copy of all current shortcuts to iCloud drive (utilizing .shortcut extension).
+
+[Current App Settings]() <br>
+Opens the settings for the currently open app. Original author [Stephen Robles](https://beard.fm/).
 
 [Eject Water](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Eject%20Water.shortcut) <br>
 Uses a low frequency sound to eject any water from the iPhone's speakers. Original author [u/Josh6780](https://www.reddit.com/r/shortcuts/comments/9s6bng/eject_water_from_your_device_like_an_apple_watch/).
