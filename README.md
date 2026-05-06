@@ -1,8 +1,8 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 04/12/2026.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 05/06/2026.
 
 ## Automations
-[Action Button Menu](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Action%20Button%20Menu.shortcut) <br>
+[Action Button Menu]() <br>
 Utilizes [Menu Box](https://menubox.app/) to create a menu of frequently used "quick actions"; best set up as a Shortcut triggered with the Action Button.
 
 [Alarm For Next F1 Race](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Alarm%20For%20Next%20F1%20Race.shortcut) <br>
