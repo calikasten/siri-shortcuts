@@ -2,7 +2,7 @@
 Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 05/06/2026.
 
 ## Automations
-[Action Button Menu]() <br>
+[Action Button Menu](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Action%20Button%20Menu.shortcut) <br>
 Utilizes [Menu Box](https://menubox.app/) to create a menu of frequently used "quick actions"; best set up as a Shortcut triggered with the Action Button.
 
 [Alarm For Next F1 Race]() <br>
@@ -109,7 +109,7 @@ Uses AI to summarize a podcast based on the podcast link/URL to provide and over
 [Meeting Attendee Research](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Meeting%20Attendee%20Research.shortcut) <br>
 Uses AI to review today's calendar event, note which meetings have external attendees and research those individuals to create pre-meeting research.
 
-[New Dictation]() <br>
+[New Dictation](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/New%20Dictation.shortcut) <br>
 Utilizes [Quick Notes](https://apps.apple.com/us/app/quick-notes-easy-voice-notes/id6754181571) to start a new Quick Notes recording.
 
 [Overlay "Rejection" Watermark](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Overlay%20%E2%80%9CRejection%E2%80%9D%20Watermark.shortcut) <br>
@@ -134,7 +134,7 @@ Opens YouTube in the left window and asks the user to select from Notion or Obsi
 [Backup to iCloud](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Backup%20To%20iCloud.shortcut) <br>
 Saves a copy of all current shortcuts to iCloud drive (utilizing .shortcut extension).
 
-[Current App Settings]() <br>
+[Current App Settings](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Current%20App%20Settings.shortcut) <br>
 Opens the settings for the currently open app. Original author [Stephen Robles](https://beard.fm/).
 
 [Eject Water](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Eject%20Water.shortcut) <br>
