@@ -1,5 +1,5 @@
 # Siri Shortcuts
-Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 05/06/2026.
+Siri Shortcuts for iOS, iPadOS, and macOS. Last Updated 05/10/2026.
 
 ## Automations
 [Action Button Menu](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Action%20Button%20Menu.shortcut) <br>
@@ -131,6 +131,9 @@ Count the number of words for the text in the clipboard or in the provided input
 Opens YouTube in the left window and asks the user to select from Notion or Obsidian for the right window.
 
 ## Utilities
+[3D Printer Conversion](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/3D%20Printer%20Conversion.shortcut) <br>
+Quickly convert between millimeters and inches and vice versa. 
+
 [Backup to iCloud](https://github.com/calikasten/siri-shortcuts/blob/main/shortcuts/Backup%20To%20iCloud.shortcut) <br>
 Saves a copy of all current shortcuts to iCloud drive (utilizing .shortcut extension).
 
